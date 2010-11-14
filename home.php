@@ -30,7 +30,9 @@ function showpost($category)
 //         showpost('freoffice');
 ?>
 
-Read <a href="http://www.koffice.org/announcements/">more announcements...</a>
+<div class="navigation">
+        <div class="alignleft">Read <a href="announcements">more announcements</a></div>
+</div>
 
 <div class="news">
 
