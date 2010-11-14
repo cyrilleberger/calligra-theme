@@ -1313,7 +1313,7 @@ body {
 -------------------------------------------------------------- */
 
 .news {
-  width: 650px;
+  width: 640px;
   float: left;
   margin-left:0px;
   margin-right:0px;
@@ -1326,7 +1326,7 @@ body {
   width: 240px;
   float:right;
   margin-left:0px;
-  margin-right:60px;
+  margin-right:40px;
   background: #f0f0f0;
 }
 
