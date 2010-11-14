@@ -387,6 +387,7 @@ div.menu ul {
 div.menu li {
 	float: left;
 	position: relative;
+  background-image:url("images/buttonbackground.png");  
 }
 #access a {
 	color: #aaa;
