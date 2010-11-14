@@ -1322,11 +1322,21 @@ code {
 	}
 }
 
+/* =KOffice changes
+-------------------------------------------------------------- */
+
+body {
+  width: 940px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+}
+
 /* =News
 -------------------------------------------------------------- */
 
 .news {
-  width: 500px;
+  width: 650px;
   float: left;
   margin-left:0px;
   margin-right:0px;
@@ -1349,7 +1359,7 @@ code {
 
 .lifestream li {
   margin-bottom: 7px;
-  margin-left: -30px;
+/*   margin-left: -30px; */
 }
 
 .lifestream a:link {color:#000;}
