@@ -66,7 +66,9 @@
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
 				<?php
-        <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/appsmatrix.png" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
+        <div class="banner">
+          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/appsmatrix.png" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
+        </div>
 			</div><!-- #branding -->
 
 			<div id="access" role="navigation">
