@@ -32,43 +32,46 @@ function showpost($category)
 
 Read <a href="http://www.koffice.org/announcements/">more announcements...</a>
 
-<h2>News</h2>
-<?php
-rewind_posts();
-if (have_posts()) :
-    $counter = 0;
-    while (have_posts()) :
-        the_post();
-        # if the post is in the category we want to exclude from the startpage but should show up in the category archives, we just skip to the next post. -->       
-        if (!in_category('news') && !has_tag('frontpage') ) continue;
-        if (in_category("announcements")) continue;
-        ?>
-        <div class="post" id="post-<?php the_ID(); ?>">
-            <h3><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h3>
-            <small><?php the_time('F jS, Y') ?> <!-- by <?php the_author() ?> --></small>
+<div class="news">
 
-            <div class="entry">
-                <?php the_excerpt('Read the rest of this entry &raquo;'); ?>
-            </div>
+  <h2>News</h2>
+  <?php
+  rewind_posts();
+  if (have_posts()) :
+      $counter = 0;
+      while (have_posts()) :
+          the_post();
+          # if the post is in the category we want to exclude from the startpage but should show up in the category archives, we just skip to the next post. -->       
+          if (!in_category('news') && !has_tag('frontpage') ) continue;
+          if (in_category("announcements")) continue;
+          ?>
+          <div class="post" id="post-<?php the_ID(); ?>">
+              <h3><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h3>
+              <small><?php the_time('F jS, Y') ?> <!-- by <?php the_author() ?> --></small>
 
-<!--                 <p class="postmetadata">Posted in <?php the_category(', ') ?> | <?php the_tags('Tags: ', ', ', '&nbsp;| '); ?> <?php edit_post_link('Edit', '', ' | '); ?>  <?php comments_popup_link('No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'); ?></p> -->
-        </div>
-        <?php
-        $counter += 1;
-        if ($counter > 2) break;
-    endwhile; ?>
+              <div class="entry">
+                  <?php the_excerpt('Read the rest of this entry &raquo;'); ?>
+              </div>
 
-    <div class="navigation">
-            <div class="alignleft">Read <a href="news">more news</a></div>
-    </div>
+  <!--                 <p class="postmetadata">Posted in <?php the_category(', ') ?> | <?php the_tags('Tags: ', ', ', '&nbsp;| '); ?> <?php edit_post_link('Edit', '', ' | '); ?>  <?php comments_popup_link('No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'); ?></p> -->
+          </div>
+          <?php
+          $counter += 1;
+          if ($counter > 2) break;
+      endwhile; ?>
 
-<?php else : ?>
+      <div class="navigation">
+              <div class="alignleft">Read <a href="news">more news</a></div>
+      </div>
 
-    <h2 class="center">Not Found</h2>
-    <p class="center">Sorry, but you are looking for something that isn't here.</p>
-    <?php include (TEMPLATEPATH . "/searchform.php"); ?>
+  <?php else : ?>
 
-<?php endif; ?>
+      <h2 class="center">Not Found</h2>
+      <p class="center">Sorry, but you are looking for something that isn't here.</p>
+      <?php include (TEMPLATEPATH . "/searchform.php"); ?>
+
+  <?php endif; ?>
+</div>
 
 <div class="lifestream">
 
