@@ -56,5 +56,4 @@ if ( get_the_author_meta( 'description' ) ) : ?>
 			</div><!-- #content -->
 		</div><!-- #container -->
 
-<?php get_sidebar(); ?>
 <?php get_footer(); ?>
