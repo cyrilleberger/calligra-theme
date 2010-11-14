@@ -374,9 +374,9 @@ a:hover {
 }
 #access .menu-header,
 div.menu {
-	font-size: 13px;
-	margin-left: 12px;
-	width: 928px;
+  font-size: 13px;
+  margin-left:auto;
+  margin-right: 0px;
 }
 #access .menu-header ul,
 div.menu ul {
