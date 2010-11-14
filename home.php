@@ -1,40 +1,40 @@
 <?php
 get_header(); ?>
 
-<h2>Announcements</h2>
-<?php
-function showpost($category)
-{
-    rewind_posts();
-    while (have_posts()) :
-        the_post();
-        # if the post is in the category we want to exclude from the startpage but should show up in the category archives, we just skip to the next post.
-        if (!in_category($category)) continue; ?>
-
-        <div class="post" id="post-<?php the_ID(); ?>">
-            <h3><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h3>
-            <small><?php the_time('F jS, Y') ?></small>
-
-            <div class="entry">
-                <?php the_excerpt('Read the rest of this entry &raquo;'); ?>
-            </div>
-        </div>
-        <?php
-        break;
-    endwhile;
-}
-?>
-<?php
-    showpost('stable');
-//         showpost('unstable');
-//         showpost('freoffice');
-?>
-
-<div class="navigation">
-        <div class="alignleft">Read <a href="announcements">more announcements</a></div>
-</div>
-
 <div class="news">
+
+  <h2>Announcements</h2>
+  <?php
+  function showpost($category)
+  {
+      rewind_posts();
+      while (have_posts()) :
+          the_post();
+          # if the post is in the category we want to exclude from the startpage but should show up in the category archives, we just skip to the next post.
+          if (!in_category($category)) continue; ?>
+
+          <div class="post" id="post-<?php the_ID(); ?>">
+              <h3><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h3>
+              <small><?php the_time('F jS, Y') ?></small>
+
+              <div class="entry">
+                  <?php the_excerpt('Read the rest of this entry &raquo;'); ?>
+              </div>
+          </div>
+          <?php
+          break;
+      endwhile;
+  }
+  ?>
+  <?php
+      showpost('stable');
+  //         showpost('unstable');
+  //         showpost('freoffice');
+  ?>
+
+  <div class="navigation">
+          <div class="alignleft">Read <a href="announcements">more announcements</a></div>
+  </div>
 
   <h2>News</h2>
   <?php
