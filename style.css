@@ -1322,3 +1322,26 @@ code {
 		border: none;
 	}
 }
+
+/* =Life stream
+-------------------------------------------------------------- */
+
+.lifestream {
+  width: 240px;
+  float:right;
+  margin-left:0px;
+  margin-right:60px;
+  background: #f0f0f0;
+}
+
+.lifestream ul {
+  list-style-type: none;
+}
+
+.lifestream li {
+  margin-bottom: 7px;
+  margin-left: -30px;
+}
+
+.lifestream a:link {color:#000;}
+.lifestream a:visited {color:#000;}
