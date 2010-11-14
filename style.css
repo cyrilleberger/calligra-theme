@@ -1361,11 +1361,7 @@ code {
 
 .banner {
   clear:both;
-  width:800px;
-  height:240px;
-  background-image:url("<?php bloginfo('stylesheet_directory'); ?>/images/banner_background.png");  
-}
-
-.bannerimage {
-  margin-left:89px;
+  width:920px;
+  height:290px;
+  background-image:url("images/banner_background.png");  
 }
