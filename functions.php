@@ -340,7 +340,7 @@ function twentyten_comment( $comment, $args, $depth ) {
 endif;
 
 /**
- * Register widgetized areas, including two sidebars and four widget-ready columns in the footer.
+ * Register widgetized areas, none of them.
  *
  * To override twentyten_widgets_init() in a child theme, remove the action hook and add your own
  * function tied to the init hook.

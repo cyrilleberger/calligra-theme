@@ -26,14 +26,6 @@ DESCRIPTION: Two-column fixed layout with one sidebar right of content
 #content {
 	margin: 0 20px 36px 280px;
 }
-#primary,
-#secondary {
-	float: left;
-}
-#secondary {
-	clear: left;
-}
-
 
 /* =Fonts
 -------------------------------------------------------------- */

@@ -1,10 +1,10 @@
 /*
 Theme Name: KOffice B
 Theme URI: http://koffice.org/
-Description: The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the "Asides" and "Gallery" categories, and has an optional one-column page template that removes the sidebar.
-Author: the WordPress team
-Version: 1.1
-Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style
+Description: The future koffice theme.
+Author: the WordPress and KOffice teams
+Version: 1.0
+Tags: 
 */
 
 
@@ -59,8 +59,8 @@ a img {
 -------------------------------------------------------------- */
 
 /*
-LAYOUT: Two columns
-DESCRIPTION: Two-column fixed layout with one sidebar right of content
+LAYOUT: One column
+DESCRIPTION: Ine column fixed layout with no sidebars
 */
 
 #container {
@@ -69,42 +69,13 @@ DESCRIPTION: Two-column fixed layout with one sidebar right of content
 	width: 100%;
 }
 #content {
-	margin: 0 280px 0 20px;
-}
-#primary,
-#secondary {
-	float: right;
-	overflow: hidden;
-	width: 220px;
-}
-#secondary {
-	clear: right;
+	margin: 0 auto;
+  width: 920px;
 }
 #footer {
 	clear: both;
 	width: 100%;
 }
-
-/*
-LAYOUT: One column, no sidebar
-DESCRIPTION: One centered column with no sidebar
-*/
-
-.one-column #content {
-	margin: 0 auto;
-	width: 640px;
-}
-
-/*
-LAYOUT: Full width, no sidebar
-DESCRIPTION: Full width content with no sidebar; used for attachment pages
-*/
-
-.single-attachment #content {
-	margin: 0 auto;
-	width: 900px;
-}
-
 
 /* =Fonts
 -------------------------------------------------------------- */
@@ -1175,10 +1146,6 @@ h3#reply-title {
 	margin-left: 1.3em;
 	padding: 0;
 }
-#primary {
-}
-#secondary {
-}
 
 /* Footer widget areas */
 #footer-widget-area {
@@ -1299,8 +1266,7 @@ code {
 		margin: 0;
 		width: 100%;
 	}
-	#content,
-	.one-column #content {
+	#content {
 		margin: 24pt 0 0;
 		width: 100%;
 	}
