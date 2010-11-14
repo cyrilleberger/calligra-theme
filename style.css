@@ -1228,7 +1228,7 @@ code {
 	}
 	#header {
 		border-bottom: 2pt solid #000;
-		padding-bottom: 18pt;
+		padding-bottom: 0px;
 	}
 	#colophon {
 		border-top: 2pt solid #000;
