@@ -53,7 +53,6 @@ Read <a href="http://www.koffice.org/announcements/">more announcements...</a>
                   <?php the_excerpt('Read the rest of this entry &raquo;'); ?>
               </div>
 
-  <!--                 <p class="postmetadata">Posted in <?php the_category(', ') ?> | <?php the_tags('Tags: ', ', ', '&nbsp;| '); ?> <?php edit_post_link('Edit', '', ' | '); ?>  <?php comments_popup_link('No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'); ?></p> -->
           </div>
           <?php
           $counter += 1;
