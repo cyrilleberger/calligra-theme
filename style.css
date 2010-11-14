@@ -383,9 +383,13 @@ div.menu ul {
 	list-style: none;
 	margin: 0;
 }
+#access .menu-header img,
+div.menu img {
+  float:right;
+}
 #access .menu-header li,
 div.menu li {
-	float: left;
+	float: right;
 	position: relative;
   background-image:url("images/buttonbackground.png");  
 }
