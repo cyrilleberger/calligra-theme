@@ -64,11 +64,11 @@
 					</span>
 				</<?php echo $heading_tag; ?>>
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
+      </div><!-- #branding -->
 
-        <div class="banner">
-          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/appsmatrix.png" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
-        </div>
-			</div><!-- #branding -->
+      <div class="banner">
+        <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/appsmatrix.png" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
+      </div>
 
 			<div id="access" role="navigation">
 			  <?php /*  Allow screen readers / text browsers to skip the navigation menu and get right to the good stuff */ ?>
