@@ -126,7 +126,7 @@ get_header(); ?>
                                   'http://ingwa2.blogspot.com/atom.xml', // Inge Wallin
                                   'http://www.kdedevelopers.org/blog/104/feed', // Jarosław Staniek
                                   'http://blog.ben2367.fr/tag/morice-net/feed/?mrss=off', // Jean-Nicolas Artaud
-                                  'http://blog.ben2367.fr/tag/english/feed/?mrss=off', // Benjamin Port
+                                  'http://blog.ben2367.fr/category/kde/koffice/feed/?mrss=off', // Benjamin Port
                                   'http://www.kdedevelopers.org/blog/268/feed', // Jos van den Oever
                                   'http://lukast.mediablog.sk/log/?feed=rss2', // Lukas Tvrdy
                                   'http://www.kdedevelopers.org/blog/7783/feed', // Marc Pegon
