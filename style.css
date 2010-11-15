@@ -1345,7 +1345,7 @@ body {
 /* =Banner
 -------------------------------------------------------------- */
 
-.banner .banner_home {
+.banner, .banner_home {
   clear:both;
   width:940px;
   height:315px;
