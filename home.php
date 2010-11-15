@@ -1,5 +1,8 @@
 <?php
-get_header(); ?>
+$banner_class = "banner_home";
+get_header();
+unset($banner_class);
+?>
 
 <div id="container">
   <div id="content" role="main">

@@ -1345,9 +1345,16 @@ body {
 /* =Banner
 -------------------------------------------------------------- */
 
-.banner {
+.banner .banner_home {
   clear:both;
   width:940px;
   height:315px;
+}
+
+.banner {
   background-image:url("images/banner_background.png");  
+}
+
+.banner_home {
+  background-image:url("images/banner_home_background.png");  
 }

@@ -75,7 +75,7 @@
 				</<?php echo $heading_tag; ?>>
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
-        <div class="banner">
+        <div class="<?php if(isset($banner_class)): echo $banner_class; else: ?>banner<? endif; ?>">
           <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/appsmatrix.png" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
         </div>
 			</div><!-- #branding -->
