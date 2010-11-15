@@ -1,4 +1,5 @@
 <?php
+global $banner_class;
 /**
  * The Header for our theme.
  *
