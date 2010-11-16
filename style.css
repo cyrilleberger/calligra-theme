@@ -368,6 +368,7 @@ div.menu li {
 	float: right;
 	position: relative;
   background-image:url("images/buttonbackground.png");  
+  background-repeat:repeat-x;
 }
 #access a {
 	color: #ffffff;
@@ -391,6 +392,9 @@ div.menu li {
 }
 #access ul ul li {
 	min-width: 180px;
+}
+#access .sub-menu li {
+  background-image: none;
 }
 #access ul ul ul {
 	left: 100%;
