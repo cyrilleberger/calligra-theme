@@ -52,8 +52,8 @@ get_header("home");
               if (in_category("announcements")) continue;
               ?>
               <div class="post" id="post-<?php the_ID(); ?>">
-                  <h3><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h3>
-                  <small><?php the_time('F jS, Y') ?> <!-- by <?php the_author() ?> --></small>
+                  <h2 class="entry-title"><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
+                  <div class="entry-meta"><?php the_time('F jS, Y') ?></div>
 
                   <div class="entry">
                       <?php the_excerpt('Read the rest of this entry &raquo;'); ?>
