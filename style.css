@@ -1338,6 +1338,10 @@ body {
   padding-left: 5px;
 }
 
+.lifestream h3 {
+  font-weight: bold;
+}
+
 .lifestream ul {
   list-style-type: none;
 }
