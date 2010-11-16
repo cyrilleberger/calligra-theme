@@ -398,7 +398,7 @@ div.menu li {
 	top: 0;
 }
 #access ul ul a {
-	background: #333;
+	background: #685953;
 	line-height: 1em;
 	padding: 10px;
 	width: 160px;
@@ -406,8 +406,12 @@ div.menu li {
 }
 #access li:hover > a,
 #access ul ul :hover > a {
-	background: #333;
+	background: #685953;
 	color: #fff;
+}
+#access .sub-menu :hover > a {
+  background: #555;
+  color: #fff;
 }
 #access ul li:hover > ul {
 	display: block;
