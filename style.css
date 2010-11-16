@@ -1334,13 +1334,17 @@ body {
   background: #f0f0f0;
 }
 
+.lifestream h2, .lifestream h3 {
+  padding-left: 5px;
+}
+
 .lifestream ul {
   list-style-type: none;
 }
 
 .lifestream li {
   margin-bottom: 7px;
-/*   margin-left: -30px; */
+  padding-right: 5px;
 }
 
 .lifestream a:link {color:#000;}
