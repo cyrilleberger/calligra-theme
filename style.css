@@ -1326,6 +1326,7 @@ body {
 -------------------------------------------------------------- */
 
 .lifestream {
+  font-size: 0.8em;
   width: 240px;
   float:right;
   margin-left:0px;
