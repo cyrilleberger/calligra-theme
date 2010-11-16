@@ -40,7 +40,7 @@ get_header("home");
               <div class="alignleft">Read <a href="announcements">more announcements</a></div>
       </div>
 
-      <h2>News</h2>
+      <h2 style="margin-top:40px;">News</h2>
       <?php
       rewind_posts();
       if (have_posts()) :

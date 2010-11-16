@@ -1322,6 +1322,15 @@ body {
   margin-right:0px;
 }
 
+.news h2 {
+  font-size: 2.0em;
+  font-weight: bold;
+}
+
+.news .post, .news .navigation {
+  margin-left: 20px;
+}
+
 /* =Life stream
 -------------------------------------------------------------- */
 
