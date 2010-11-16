@@ -1347,7 +1347,8 @@ body {
   padding-right: 5px;
 }
 
-.lifestream a:link {color:#000;}
+.lifestream a:link {color:#000; text-decoration: none; }
+.lifestream a:hover {color:#000; text-decoration: underline; }
 .lifestream a:visited {color:#000;}
 
 /* =Banner
