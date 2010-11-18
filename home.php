@@ -62,7 +62,7 @@ get_header("home");
               </div>
               <?php
               $counter += 1;
-              if ($counter > 2) break;
+              if ($counter > 5) break;
           endwhile; ?>
 
           <div class="navigation">
