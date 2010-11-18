@@ -1,5 +1,6 @@
 <?php
 get_header("home");
+query_posts('posts_per_page=50');
 ?>
 
 <div id="container">
