@@ -1384,7 +1384,7 @@ body {
   background-image:url("images/banner_home_background.png");  
 }
 
-.banner_home .app_matrix {
+.app_matrix {
   font-family: "Nimbus Sans L", sans;
   font-size: 12px;
   line-height: 100%;
@@ -1392,45 +1392,45 @@ body {
   padding-top: 3px;
 }
 
-.banner_home .app_matrix .app {
+.app_matrix .app {
   display: inline;
   float: left;
   width: 300px;
 }
 
-.banner_home .app_matrix .long {
+.app_matrix .long {
   width: 620px;
 }
 
-.banner_home .app_matrix .center {
+.app_matrix .center {
   width: 320px;
 }
 
-.banner_home .app_matrix .small {
+.app_matrix .small {
   padding-top: 13px;
 }
 
-#branding .banner_home .app_matrix .app img {
+#branding .app_matrix .app img {
   display: inline;
   float: left;
   padding-right: 16px;
 }
 
-#branding .banner_home .app_matrix .small img {
+#branding .app_matrix .small img {
   padding-right: 26px;
   padding-left: 4px;
 }
 
-.banner_home .app_matrix .big div {
+.app_matrix .big div {
   padding-top: 16px;
 }
 
-.banner_home .app_matrix .small div {
+.app_matrix .small div {
   padding-top: 11px;
   width: 236px;
 }
 
-.banner_home .app_matrix .app span {
+.app_matrix .app span {
   font-weight: bold;
   font-size: 150%;
   line-height: 120%;
