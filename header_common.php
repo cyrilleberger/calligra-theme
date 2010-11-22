@@ -55,9 +55,29 @@
   
   if(is_home() or is_page("learn-more")):
     $banner_image = "appsmatrix.png";
+  elseif(has_ancestor("kword")):
+    $banner_image = "kword.png";
+    $secondary_menu = "kword";
   elseif(has_ancestor("kpresenter")):
     $banner_image = "kpresenter.png";
     $secondary_menu = "kpresenter";
+  elseif(has_ancestor("kspread")):
+    $banner_image = "kspread.png";
+    $secondary_menu = "kspread";
+  elseif(has_ancestor("kexi")):
+    $banner_image = "kexi.png";
+    $secondary_menu = "kexi";
+  elseif(has_ancestor("kivio")):
+    $banner_image = "kivio.png";
+    $secondary_menu = "";
+  elseif(has_ancestor("kplato")):
+    $banner_image = "kplato.png";
+    $secondary_menu = "";
+  elseif(has_ancestor("karbon")):
+    $banner_image = "karbon.png";
+    $secondary_menu = "karbon";
+  elseif(has_ancestor("krita")):
+    $banner_image = "krita.png";
   endif
   
 
@@ -95,9 +115,6 @@
 			</div><!-- #branding -->
       <!-- Show secondary menu -->
       <?php
-        
-        if(has_ancestor("kpresenter"))
-        
         if($secondary_menu != ""):
       ?>
       <div id="access" role="navigation" style="margin-top:-25px">
