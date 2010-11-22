@@ -78,7 +78,7 @@
         <div class="<?php echo $banner_class; ?>">
           <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php 
             if(is_home()): echo "appsmatrix.png";
-            elseif(is_page("kpresenter")): echo "kpresenter.png";
+            elseif(has_ancestor("kpresenter")): echo "kpresenter.png";
             endif
           ?>" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
         </div>
