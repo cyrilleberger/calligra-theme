@@ -76,11 +76,14 @@
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
         <div class="<?php echo $banner_class; ?>">
+          <?php if (is_home()): ?>
+          <?php include('home_banner.php') ?>
+          <?php else: ?>
           <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php 
-            if(is_home()): echo "appsmatrix.png";
-            elseif(is_page("kpresenter")): echo "kpresenter.png";
+            if(is_page("kpresenter")): echo "kpresenter.png";
             endif
           ?>" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
+          <?php endif ?>
         </div>
 			</div><!-- #branding -->
 
