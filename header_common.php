@@ -88,8 +88,14 @@
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
         <div class="<?php echo $banner_class; ?>">
-          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php echo $banner_image;
+          <?php if (is_home()): ?>
+          <?php include('home_banner.php') ?>
+          <?php else: ?>
+          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php 
+            if(is_page("kpresenter")): echo "kpresenter.png";
+            endif
           ?>" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
+          <?php endif ?>
         </div>
         
 			</div><!-- #branding -->
