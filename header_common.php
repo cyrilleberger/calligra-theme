@@ -49,6 +49,18 @@
 	 * as styles, scripts, and meta tags.
 	 */
 	wp_head();
+
+  $banner_image = "";
+  $secondary_menu = "";
+  
+  if(is_home()):
+    $banner_image = "appsmatrix.png";
+  elseif(has_ancestor("kpresenter")):
+    $banner_image = "kpresenter.png";
+    $secondary_menu = "kpresenter";
+  endif
+  
+
 ?>
 </head>
 
@@ -76,13 +88,30 @@
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
         <div class="<?php echo $banner_class; ?>">
-          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php 
-            if(is_home()): echo "appsmatrix.png";
-            elseif(has_ancestor("kpresenter")): echo "kpresenter.png";
-            endif
+          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php echo $banner_image;
           ?>" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
         </div>
+        
 			</div><!-- #branding -->
+      <!-- Show secondary menu -->
+      <?php
+        
+        if(has_ancestor("kpresenter"))
+        
+        if($secondary_menu != ""):
+      ?>
+      <div id="access" role="navigation" style="margin-top:-25px">
+        <?php /*  Allow screen readers / text browsers to skip the navigation menu and get right to the good stuff */ ?>
+        <div class="skip-link screen-reader-text"><a href="#content" title="<?php esc_attr_e( 'Skip to content', 'twentyten' ); ?>"><?php _e( 'Skip to content', 'twentyten' ); ?></a></div>
+        <div class="menu-header">
+          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/buttonright.png" />
+          <?php wp_nav_menu( array( 'container' => '', 'container_class' => '', 'theme_location' => 'primary', 'menu' => $secondary_menu ) ); ?>
+          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/buttonleft.png" />
+        </div>
+      </div><!-- #access -->
+      <?php
+        endif
+      ?>
 
 		</div><!-- #masthead -->
 	</div><!-- #header -->
