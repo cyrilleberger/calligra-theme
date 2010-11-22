@@ -53,7 +53,7 @@
   $banner_image = "";
   $secondary_menu = "";
   
-  if(is_home()):
+  if(is_home() or is_page("learn-more")):
     $banner_image = "appsmatrix.png";
   elseif(has_ancestor("kpresenter")):
     $banner_image = "kpresenter.png";
