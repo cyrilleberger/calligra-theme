@@ -1357,6 +1357,7 @@ body {
 .lifestream li {
   margin-bottom: 7px;
   padding-right: 5px;
+  overflow: hidden;
 }
 
 .lifestream a:link {color:#000; text-decoration: none; }
@@ -1386,7 +1387,6 @@ body {
 
 .app_matrix {
   font-family: "Nimbus Sans L", sans;
-  font-size: 12px;
   line-height: 100%;
   color: black;
   padding-top: 3px;
