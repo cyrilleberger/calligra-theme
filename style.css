@@ -1357,6 +1357,7 @@ body {
 .lifestream li {
   margin-bottom: 7px;
   padding-right: 5px;
+  overflow: hidden;
 }
 
 .lifestream a:link {color:#000; text-decoration: none; }
