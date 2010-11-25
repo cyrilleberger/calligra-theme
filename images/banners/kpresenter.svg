@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="kpresenter.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/koffice/images/banners/kpresenter.png"
+   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/kpresenter.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4530,15 +4530,6 @@
        id="linearGradient2702"
        xlink:href="#linearGradient4976"
        inkscape:collect="always" />
-    <filter
-       id="filter4063"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4065"
-         stdDeviation="1.1020371"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath3761"
        clipPathUnits="userSpaceOnUse">
@@ -4547,15 +4538,6 @@
          d="m 170.75,112.2125 0,95.65625 133.65625,0 0,-95.65625 -133.65625,0 z m 83.21875,13.0625 c 9.12374,-0.15761 18.42231,1.54234 25.59375,5.625 1.69571,0.96536 3.26775,2.05927 4.71875,3.34375 7.45571,6.59999 12.25505,15.86897 5.8125,23.8125 -4.95923,6.11465 -14.54928,2.72253 -13.75,-2.46875 0.38406,-2.49446 2.06488,-6.52597 -0.75,-7.84375 -6.65167,-3.10772 -14.30867,2.03028 -17.09375,6.5625 -0.7176,1.16854 -2.06049,3.58958 -0.75,4.875 1.98691,1.94889 4.34731,0.34237 6.25,2.15625 4.55225,4.33979 -0.95841,16.08471 -6.84375,20.75 -8.84078,7.00805 -20.71268,11.57235 -33.0625,11.84375 -12.72402,0.27963 -25.96905,-3.89808 -36.9375,-14.78125 -0.68848,-0.68312 -1.73124,-1.98511 -2.375,-3.03125 -8.69162,-14.12418 -5.36227,-36.04241 12.75,-33.875 5.82767,0.69737 15.62944,8.43147 9.40625,19.1875 -1.74935,3.02354 -0.12504,5.44957 3.78125,5.90625 3.37222,0.49343 9.3871,-1.01317 13.84375,-4.21875 2.41491,-1.73699 4.32163,-3.77174 4.78125,-6.03125 0.62188,-3.05725 -1.10513,-6.24384 -3.75,-7.03125 -0.9596,-0.28568 -2.40525,0.44475 -1.84375,1.46875 0.56965,1.03885 -1.10346,2.23574 -2.625,1.59375 -7.59518,-3.2046 -4.33341,-13.10103 3.25,-19.21875 6.41056,-5.17156 17.86323,-8.42236 29.59375,-8.625 z m -58.78125,28.15625 c -1.40777,0.093 -2.96222,0.72381 -3.9375,1.6875 -3.62249,3.57946 -2.30706,10.31711 0.59375,14.65625 5.69034,8.51186 22.04666,18.23366 45.4375,10.34375 6.93627,-2.33965 11.95797,-9.30014 9.40625,-13 -0.90951,-1.31874 -2.51831,-0.53126 -5.0625,-0.53125 -2.88016,0 -4.21778,-0.9276 -5.25,0.5 -6.49989,8.98957 -17.86994,11.63734 -30.75,7.75 -6.58952,-1.9888 -10.41449,-7.96617 -10.375,-12.90625 -0.13101,-2.47374 0.579,-4.09482 1.8125,-4.25 1.12982,-0.14214 1.43621,-1.84518 1.125,-2.8125 -0.35236,-1.09525 -1.59223,-1.53048 -3,-1.4375 z"
          style="opacity:0.36633684;fill:#ffffff;fill-opacity:1;stroke:none" />
     </clipPath>
-    <filter
-       id="filter3753"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3755"
-         stdDeviation="0.88162968"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="4.75"
@@ -4950,19 +4932,6 @@
          id="path4792"
          sodipodi:nodetypes="cssszscssscssscsscssssssssssssssss" />
     </clipPath>
-    <filter
-       height="1.2258548"
-       y="-0.11292741"
-       width="1.1763539"
-       x="-0.088176951"
-       id="filter4786"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4788"
-         stdDeviation="2.4055891"
-         inkscape:collect="always" />
-    </filter>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
@@ -5674,15 +5643,6 @@
          id="stop17157"
          offset="1" />
     </radialGradient>
-    <filter
-       id="filter3069"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="2.3442782"
-         id="feGaussianBlur3071"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="14.195818"
        xlink:href="#linearGradient11226"
@@ -5886,15 +5846,6 @@
          d="m -242.5397,-118.4375 c -17.82331,0 -57.7255,0.0924 -61.78125,4.1875 l 25.0625,224.71875 c 2.48978,3.87913 3.78181,7.44567 2,12.6875 -1.31562,6.14616 0.087,10.95451 1.40625,16.65625 0.47582,1.81061 1.09041,3.5444 0,6.25 -1.92437,5.93062 -2.63574,11.07324 -2.09375,18.03125 4.21524,-4.21524 23.32907,-4.03126 35.40625,-4.03125 l 0,-0.0312 c 13.38725,-0.003 32.09966,0.0972 36.46875,4.03125 0.6018,-6.95669 -0.17575,-12.10176 -2.3125,-18.03125 -1.21073,-2.70509 -0.52833,-4.43973 0,-6.25 1.46482,-5.70065 2.99207,-10.51126 1.53125,-16.65625 -1.97841,-5.24084 -0.54581,-8.77785 2.21875,-12.65625 L -176.7897,-114.25 c -4.31358,-3.92179 -44.92415,-4.14388 -65.75,-4.15625 l 0,-0.0312 z"
          id="path4308-8" />
     </clipPath>
-    <filter
-       id="filter4300"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.1619733"
-         id="feGaussianBlur4302"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient3370-0">
       <stop
@@ -5980,24 +5931,6 @@
          offset="1"
          id="stop4719-7" />
     </linearGradient>
-    <filter
-       id="filter3874"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3876"
-         stdDeviation="0.305"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter3864"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3866"
-         stdDeviation="1.0364078"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath3846-3"
        clipPathUnits="userSpaceOnUse">
@@ -6006,15 +5939,6 @@
          d="m 259.1875,60.5 c -0.52025,0 -0.9375,0.355417 -0.9375,0.78125 l 0,59.4375 c 0,0.42583 0.41724,0.78125 0.9375,0.78125 l 87.375,0 c 0.52025,0 0.9375,-0.35542 0.9375,-0.78125 l 0,-59.4375 C 347.5,60.855418 347.08276,60.5 346.5625,60.5 l -87.375,0 z m 7.125,5.5 70.875,0 c 0.86562,0 1.5625,0.696875 1.5625,1.5625 l 0,44.875 c 0,0.86562 -0.69688,1.5625 -1.5625,1.5625 l -70.875,0 c -0.86562,0 -1.5625,-0.69688 -1.5625,-1.5625 l 0,-44.875 C 264.75,66.696875 265.44688,66 266.3125,66 z m 3.625,6 c -0.10387,-4e-6 -0.1875,0.08362 -0.1875,0.1875 l 0,10.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 1.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-10.625 C 271.75,72.083621 271.66637,72 271.5625,72 l -1.625,0 z m 5,0 c -0.10387,0 -0.1875,0.08362 -0.1875,0.1875 l 0,9.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 2.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-9.625 C 277.75,72.083625 277.66637,72 277.5625,72 l -2.625,0 z m 6,0 c -0.10387,0 -0.1875,0.08362 -0.1875,0.1875 l 0,8.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 3.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-8.625 C 284.75,72.083625 284.66637,72 284.5625,72 l -3.625,0 z m 7,0 c -0.10387,0 -0.1875,0.08362 -0.1875,0.1875 l 0,7.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 4.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-7.625 C 292.75,72.083625 292.66637,72 292.5625,72 l -4.625,0 z m 8,0 c -0.10387,0 -0.1875,0.08362 -0.1875,0.1875 l 0,6.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 5.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-6.625 C 301.75,72.083625 301.66637,72 301.5625,72 l -5.625,0 z m 9,0 c -0.10387,0 -0.1875,0.08362 -0.1875,0.1875 l 0,5.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 6.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-5.625 C 311.75,72.083625 311.66637,72 311.5625,72 l -6.625,0 z m 10,0 c -0.10387,0 -0.1875,0.08362 -0.1875,0.1875 l 0,4.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 7.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-4.625 C 322.75,72.083625 322.66637,72 322.5625,72 l -7.625,0 z m 11,0 c -0.10387,0 -0.1875,0.08362 -0.1875,0.1875 l 0,2.625 c 0,0.103875 0.0836,0.1875 0.1875,0.1875 l 8.625,0 c 0.10387,0 0.1875,-0.08362 0.1875,-0.1875 l 0,-2.625 C 334.75,72.083625 334.66637,72 334.5625,72 l -8.625,0 z m 4.3125,6.3125 -4.5,2.59375 0,5.1875 4.5,2.625 4.5,-2.625 0,-5.1875 -4.5,-2.59375 z m -11.5,1.15625 -4,2.3125 0,4.625 4,2.3125 4,-2.3125 0,-4.625 -4,-2.3125 z m -10.5,1.15625 -3.5,2.03125 0,4.03125 3.5,2.03125 3.5,-2.03125 0,-4.03125 -3.5,-2.03125 z m -9.5,1.15625 -3,1.71875 0,3.46875 3,1.75 3,-1.75 0,-3.46875 -3,-1.71875 z m -8.5,1.15625 -2.5,1.4375 0,2.875 2.5,1.46875 2.5,-1.46875 0,-2.875 -2.5,-1.4375 z m -7.5,1.15625 -2,1.15625 0,2.3125 2,1.15625 2,-1.15625 0,-2.3125 -2,-1.15625 z m -6.5,1.15625 -1.5,0.84375 0,1.75 1.5,0.875 1.5,-0.875 0,-1.75 -1.5,-0.84375 z m -5.5,1.15625 -1,0.5625 0,1.15625 1,0.59375 1,-0.59375 0,-1.15625 -1,-0.5625 z M 273.25,94 c -2.484,0 -4.5,2.016 -4.5,4.5 0,2.484 2.016,4.5 4.5,4.5 2.484,0 4.5,-2.016 4.5,-4.5 0,-2.484 -2.016,-4.5 -4.5,-4.5 z m 11.5,0 c -2.208,0 -4,1.792 -4,4 0,2.208 1.792,4 4,4 2.208,0 4,-1.792 4,-4 0,-2.208 -1.792,-4 -4,-4 z m 10.5,0 c -1.932,0 -3.5,1.568 -3.5,3.5 0,1.932 1.568,3.5 3.5,3.5 1.932,0 3.5,-1.568 3.5,-3.5 0,-1.932 -1.568,-3.5 -3.5,-3.5 z m 9.5,0 c -1.656,0 -3,1.344 -3,3 0,1.656 1.344,3 3,3 1.656,0 3,-1.344 3,-3 0,-1.656 -1.344,-3 -3,-3 z m 8.5,0 c -1.38,0 -2.5,1.12 -2.5,2.5 0,1.38 1.12,2.5 2.5,2.5 1.38,0 2.5,-1.12 2.5,-2.5 0,-1.38 -1.12,-2.5 -2.5,-2.5 z m 7.5,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z m 6.5,0 c -0.828,0 -1.5,0.672 -1.5,1.5 0,0.828 0.672,1.5 1.5,1.5 0.828,0 1.5,-0.672 1.5,-1.5 0,-0.828 -0.672,-1.5 -1.5,-1.5 z m 5.5,0 c -0.552,0 -1,0.448 -1,1 0,0.552 0.448,1 1,1 0.552,0 1,-0.448 1,-1 0,-0.552 -0.448,-1 -1,-1 z m -6.78125,7 c -0.11871,0 -0.21875,0.10004 -0.21875,0.21875 l 0,8.5625 c 0,0.11872 0.10004,0.21875 0.21875,0.21875 l 8.5625,0 c 0.11872,0 0.21875,-0.10004 0.21875,-0.21875 l 0,-8.5625 C 334.75,101.10003 334.64996,101 334.53125,101 l -8.5625,0 z m -11,1 c -0.11871,0 -0.21875,0.10004 -0.21875,0.21875 l 0,7.5625 c 0,0.11872 0.10004,0.21875 0.21875,0.21875 l 7.5625,0 c 0.11871,0 0.21875,-0.10004 0.21875,-0.21875 l 0,-7.5625 C 322.75,102.10003 322.64996,102 322.53125,102 l -7.5625,0 z m -10.03125,1 c -0.10387,0 -0.1875,0.0836 -0.1875,0.1875 l 0,6.625 c 0,0.10388 0.0836,0.1875 0.1875,0.1875 l 6.625,0 c 0.10387,0 0.1875,-0.0836 0.1875,-0.1875 l 0,-6.625 c 0,-0.10388 -0.0836,-0.1875 -0.1875,-0.1875 l -6.625,0 z m -9,1 c -0.10387,0 -0.1875,0.0836 -0.1875,0.1875 l 0,5.625 c 0,0.10388 0.0836,0.1875 0.1875,0.1875 l 5.625,0 c 0.10387,0 0.1875,-0.0836 0.1875,-0.1875 l 0,-5.625 c 0,-0.10388 -0.0836,-0.1875 -0.1875,-0.1875 l -5.625,0 z m -8,1 c -0.10387,0 -0.1875,0.0836 -0.1875,0.1875 l 0,4.625 c 0,0.10388 0.0836,0.1875 0.1875,0.1875 l 4.625,0 c 0.10387,0 0.1875,-0.0836 0.1875,-0.1875 l 0,-4.625 c 0,-0.10388 -0.0836,-0.1875 -0.1875,-0.1875 l -4.625,0 z m -7,1 c -0.10387,0 -0.1875,0.0836 -0.1875,0.1875 l 0,3.625 c 0,0.10388 0.0836,0.1875 0.1875,0.1875 l 3.625,0 c 0.10387,0 0.1875,-0.0836 0.1875,-0.1875 l 0,-3.625 c 0,-0.10388 -0.0836,-0.1875 -0.1875,-0.1875 l -3.625,0 z m -6,1 c -0.10387,0 -0.1875,0.0836 -0.1875,0.1875 l 0,2.625 c 0,0.10388 0.0836,0.1875 0.1875,0.1875 l 2.625,0 c 0.10387,0 0.1875,-0.0836 0.1875,-0.1875 l 0,-2.625 c 0,-0.10388 -0.0836,-0.1875 -0.1875,-0.1875 l -2.625,0 z m -5,1 c -0.10387,0 -0.1875,0.0836 -0.1875,0.1875 l 0,1.625 c 0,0.10388 0.0836,0.1875 0.1875,0.1875 l 1.625,0 c 0.10387,0 0.1875,-0.0836 0.1875,-0.1875 l 0,-1.625 c 0,-0.10388 -0.0836,-0.1875 -0.1875,-0.1875 l -1.625,0 z"
          style="opacity:0.62376236;fill:#ffffff;fill-opacity:1;stroke:none" />
     </clipPath>
-    <filter
-       id="filter3842"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3844"
-         stdDeviation="0.305"
-         inkscape:collect="always" />
-    </filter>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
@@ -7030,15 +6954,6 @@
        id="linearGradient6401"
        xlink:href="#linearGradient5816"
        inkscape:collect="always" />
-    <filter
-       id="filter6362"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur6364"
-         stdDeviation="0.19699287"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="122.70819"
        x2="57.398525"
@@ -7643,15 +7558,6 @@
          id="path5866"
          sodipodi:nodetypes="cczccsccscccssccscccccccc" />
     </clipPath>
-    <filter
-       id="filter5860"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur5862"
-         stdDeviation="0.59124137"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="139.57037"
@@ -7661,32 +7567,6 @@
        id="linearGradient5814"
        xlink:href="#linearGradient5816"
        inkscape:collect="always" />
-    <filter
-       height="1.5064125"
-       y="-0.25320628"
-       width="1.0533066"
-       x="-0.026653292"
-       id="filter5213"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur5215"
-         stdDeviation="0.25320627"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="1.3038408"
-       y="-0.15192033"
-       width="1.0542634"
-       x="-0.027131673"
-       id="filter5209"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur5211"
-         stdDeviation="0.25320627"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath5197"
        clipPathUnits="userSpaceOnUse">
@@ -7705,15 +7585,6 @@
          id="path5153"
          sodipodi:nodetypes="csccscc" />
     </clipPath>
-    <filter
-       id="filter4524"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4526"
-         stdDeviation="0.012616448"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="10.25"
        x2="617.85608"
@@ -8177,15 +8048,6 @@
        id="linearGradient3764"
        xlink:href="#linearGradient4919"
        inkscape:collect="always" />
-    <filter
-       id="filter4913"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4915"
-         stdDeviation="0.58252427"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="54.822113"
        x2="215.10439"
@@ -8248,15 +8110,6 @@
          id="rect5193"
          style="fill:#2c2c2c;fill-opacity:1;stroke:none" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       id="filter5227"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.48597756"
-         id="feGaussianBlur5229" />
-    </filter>
     <radialGradient
        gradientUnits="userSpaceOnUse"
        r="139.55859"
@@ -9612,12 +9465,13 @@
     </mask>
   </defs>
   <image
-     y="124.81658"
-     x="111.15242"
-     id="image6008"
-     height="111"
+     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/2008_08_26_presenter_view_main.png"
+     xlink:href="screenshots/kpresenter/2008_08_26_presenter_view_main.png"
      width="148"
-     xlink:href="file:///home/cyrille/Documents/Projects/KOffice/website/wp/koffice/images/banners/kpresenter/2008_08_26_presenter_view_main.png" />
+     height="111"
+     id="image6008"
+     x="111.15242"
+     y="124.81658" />
   <g
      id="layer4-5"
      inkscape:label="box"
@@ -10101,30 +9955,32 @@
        id="tspan13040">and more.</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:48;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-     x="147"
-     y="43"
+     style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:James Fajardo;-inkscape-font-specification:James Fajardo"
+     x="142"
+     y="82"
      id="text5916"
      sodipodi:linespacing="100%"><tspan
        sodipodi:role="line"
        id="tspan5918"
-       x="147"
-       y="43"
-       style="font-size:48;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">KPresenter</tspan></text>
+       x="142"
+       y="82"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">KPresenter</tspan></text>
   <image
-     y="50.846642"
-     x="338.1384"
-     id="image6079"
-     height="177.72017"
+     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/multiple_master_slides.png"
+     xlink:href="screenshots/kpresenter/multiple_master_slides.png"
      width="248.55968"
-     xlink:href="file:///home/cyrille/Documents/Projects/KOffice/website/wp/koffice/images/banners/kpresenter/multiple_master_slides.png" />
+     height="177.72017"
+     id="image6079"
+     x="338.1384"
+     y="50.846642" />
   <image
-     y="13.77033"
-     x="635.96503"
-     id="image6150"
-     height="139.95648"
+     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/slide_transitions.png"
+     xlink:href="screenshots/kpresenter/slide_transitions.png"
      width="195.74333"
-     xlink:href="file:///home/cyrille/Documents/Projects/KOffice/website/wp/koffice/images/banners/kpresenter/slide_transitions.png" />
+     height="139.95648"
+     id="image6150"
+     x="635.96503"
+     y="13.77033" />
   <use
      x="0"
      y="0"
@@ -10136,23 +9992,25 @@
      mask="url(#mask6987)"
      style="opacity:0.4" />
   <image
-     y="-287.95099"
-     x="338.53009"
-     id="image6079-5"
-     height="56.232567"
-     width="248.55968"
-     xlink:href="file:///home/cyrille/Documents/Projects/KOffice/website/wp/koffice/images/banners/kpresenter/multiple_master_slides.png"
-     transform="scale(1,-1)"
+     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/multiple_master_slides.png"
+     xlink:href="screenshots/kpresenter/multiple_master_slides.png"
+     style="opacity:0.40076336"
      mask="url(#mask7053)"
-     style="opacity:0.40076336" />
-  <image
-     y="-283.51654"
-     x="111.12395"
-     id="image6008-4"
-     height="45.710743"
-     width="148"
-     xlink:href="file:///home/cyrille/Documents/Projects/KOffice/website/wp/koffice/images/banners/kpresenter/2008_08_26_presenter_view_main.png"
      transform="scale(1,-1)"
+     width="248.55968"
+     height="56.232567"
+     id="image6079-5"
+     x="338.53009"
+     y="-287.95099" />
+  <image
+     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/2008_08_26_presenter_view_main.png"
+     xlink:href="screenshots/kpresenter/2008_08_26_presenter_view_main.png"
+     style="opacity:0.4"
      mask="url(#mask7139)"
-     style="opacity:0.4" />
+     transform="scale(1,-1)"
+     width="148"
+     height="45.710743"
+     id="image6008-4"
+     x="111.12395"
+     y="-283.51654" />
 </svg>
