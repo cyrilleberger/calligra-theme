@@ -78,6 +78,8 @@
     $secondary_menu = "karbon";
   elseif(has_ancestor("krita")):
     $banner_image = "krita.png";
+  elseif(has_ancestor("contribute")):
+    $banner_image = "contribute.png";
   endif
   
 
