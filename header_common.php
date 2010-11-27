@@ -80,6 +80,8 @@
     $banner_image = "krita.png";
   elseif(has_ancestor("contribute")):
     $banner_image = "contribute.png";
+  elseif(has_ancestor("get-calligra")):
+    $banner_image = "getcalligra.png";
   endif
   
 
