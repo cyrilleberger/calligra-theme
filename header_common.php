@@ -82,6 +82,8 @@
     $banner_image = "contribute.png";
   elseif(has_ancestor("get-calligra")):
     $banner_image = "getcalligra.png";
+  elseif(has_ancestor("get-help")):
+    $banner_image = "gethelp.png";
   endif
   
 
