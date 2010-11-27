@@ -84,6 +84,8 @@
     $banner_image = "getcalligra.png";
   elseif(has_ancestor("get-help")):
     $banner_image = "gethelp.png";
+  elseif(has_ancestor("news")):
+    $banner_image = "news.png"
   endif
   
 
