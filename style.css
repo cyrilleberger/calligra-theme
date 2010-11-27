@@ -364,18 +364,23 @@ div.menu li {
   margin-right: 2px;
 	float: right;
 	position: relative;
-  background-image:url("images/buttonbackground.png");  
+  background-image:url("images/buttonbackground.png");
   background-repeat:repeat-x;
 }
 
 /* Active menu item */
 #access .menu-header li.current_page_item,
-#access .menu-header li.current_page_parent,
-#access div.menu li.current_page_item,
-#access div.menu li.current_page_parent
+#access .menu-header li.current_page_parent
+{
+  background-image: url("images/buttonbackground_current.png");
+}
+
+#access .menu-header u.sub-menu li.current_page_item,
+#access .menu-header u.sub-menu li.current_page_parent,
+#access .menu-header u.sub-menu li.current-page-ancestor
 {
   background-image: none; 
-  background-color: red;
+  background-color: #8C7D76;
 }
 
 #access a {
@@ -417,6 +422,13 @@ div.menu li {
 	background: #685953;
 	color: #fff;
 }
+
+#access .menu-header li.current_page_item:hover > a,
+#access .menu-header li.current_page_parent :hover > a {
+  background: #8C7D76;
+  color: #fff;
+}
+
 #access .sub-menu :hover > a {
   background: #555;
   color: #fff;
