@@ -375,9 +375,9 @@ div.menu li {
   background-image: url("images/buttonbackground_current.png");
 }
 
-#access .menu-header u.sub-menu li.current_page_item,
-#access .menu-header u.sub-menu li.current_page_parent,
-#access .menu-header u.sub-menu li.current-page-ancestor
+#access .menu-header ul.sub-menu li.current_page_item a,
+#access .menu-header ul.sub-menu li.current_page_parent a,
+#access .menu-header ul.sub-menu li.current-page-ancestor a
 {
   background-image: none; 
   background-color: #8C7D76;
