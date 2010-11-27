@@ -367,6 +367,16 @@ div.menu li {
   background-image:url("images/buttonbackground.png");  
   background-repeat:repeat-x;
 }
+
+/* Active menu item */
+#access .menu-header li.current_page_item,
+#access .menu-header li.current_page_parent,
+#access div.menu li.current_page_item,
+#access div.menu li.current_page_parent
+{
+  background-color: red;
+}
+
 #access a {
 	color: #ffffff;
 	display: block;
