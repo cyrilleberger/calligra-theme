@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -27202,19 +27202,6 @@
          style="stop-color:#0057AE"
          id="stop3124" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       x="-0.132641"
-       width="1.265282"
-       y="-0.34752154"
-       height="1.6950431"
-       id="filter3547-5">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.7512044"
-         id="feGaussianBlur3549-0" />
-    </filter>
     <linearGradient
        id="circle16776_1_"
        gradientUnits="userSpaceOnUse"
@@ -27244,19 +27231,6 @@
       <feGaussianBlur
          stdDeviation="2"
          id="feGaussianBlur3099" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       x="-0.143268"
-       width="1.286536"
-       y="-0.072184406"
-       height="1.1443688"
-       id="filter5125-8">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.91024"
-         id="feGaussianBlur5127-7" />
     </filter>
     <linearGradient
        inkscape:collect="always"
@@ -28855,42 +28829,42 @@
        id="tspan5918"
        x="164"
        y="67"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">News</tspan></text>
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Archive</tspan></text>
   <g
      id="g8620"
      transform="translate(27,3)">
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-gearflowers.png"
        xlink:href="screenshots/karbon/karbon-gearflowers.png"
-       width="87"
-       height="74.69268"
-       id="image7230"
+       y="77.653656"
        x="363.5"
-       y="77.653656" />
+       id="image7230"
+       height="74.69268"
+       width="87" />
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/slide_transitions.png"
        xlink:href="screenshots/kpresenter/slide_transitions.png"
-       width="70"
-       height="50.049999"
-       id="image7358"
+       y="121.97499"
        x="421"
-       y="121.97499" />
+       id="image7358"
+       height="50.049999"
+       width="70" />
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/krita/girl_by_enkhitan.png"
        xlink:href="screenshots/krita/girl_by_enkhitan.png"
-       width="96"
-       height="69.536659"
-       id="image7797"
+       y="39.231674"
        x="420.5"
-       y="39.231674" />
+       id="image7797"
+       height="69.536659"
+       width="96" />
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword3.png"
        xlink:href="screenshots/kword/kword3.png"
-       width="111"
-       height="78.046875"
-       id="image7597"
+       y="71.976562"
        x="464"
-       y="71.976562" />
+       id="image7597"
+       height="78.046875"
+       width="111" />
   </g>
   <g
      id="g7835"
@@ -28900,35 +28874,35 @@
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-gearflowers.png"
        xlink:href="screenshots/karbon/karbon-gearflowers.png"
-       width="87"
-       height="74.69268"
-       id="image7230-8"
+       y="59.025322"
        x="424.25"
-       y="59.025322" />
+       id="image7230-8"
+       height="74.69268"
+       width="87" />
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/slide_transitions.png"
        xlink:href="screenshots/kpresenter/slide_transitions.png"
-       width="70"
-       height="50.049999"
-       id="image7358-4"
+       y="103.34666"
        x="481.75"
-       y="103.34666" />
+       id="image7358-4"
+       height="50.049999"
+       width="70" />
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/krita/girl_by_enkhitan.png"
        xlink:href="screenshots/krita/girl_by_enkhitan.png"
-       width="96"
-       height="69.536659"
-       id="image7797-3"
+       y="20.603342"
        x="481.25"
-       y="20.603342" />
+       id="image7797-3"
+       height="69.536659"
+       width="96" />
     <image
        sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword3.png"
        xlink:href="screenshots/kword/kword3.png"
-       width="111"
-       height="78.046875"
-       id="image7597-1"
+       y="53.348228"
        x="524.75"
-       y="53.348228" />
+       id="image7597-1"
+       height="78.046875"
+       width="111" />
   </g>
   <path
      style="fill:#000000"
@@ -29095,17 +29069,6 @@
      d=""
      id="path71"
      style="fill:#eeeeec" />
-  <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/gethelp/forum.png"
-     xlink:href="screenshots/gethelp/forum.png"
-     y="-252"
-     x="95"
-     id="image20724-4"
-     height="28"
-     width="124"
-     transform="scale(1,-1)"
-     mask="url(#mask20821)"
-     style="opacity:0.4" />
   <g
      id="layer1"
      inkscape:label="Layer 1"
