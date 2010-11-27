@@ -1396,6 +1396,7 @@ body {
 .app_matrix a:link,
 .app_matrix a:active,
 .app_matrix a:hover,
+.app_matrix a:visited
 {
   color: black;
   text-decoration: none;
