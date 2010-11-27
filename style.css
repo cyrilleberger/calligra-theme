@@ -1392,6 +1392,15 @@ body {
   padding-top: 3px;
 }
 
+.app_matrix a,
+.app_matrix a:link,
+.app_matrix a:active,
+.app_matrix a:hover,
+{
+  color: black;
+  text-decoration: none;
+}
+
 .app_matrix .app {
   display: inline;
   float: left;
