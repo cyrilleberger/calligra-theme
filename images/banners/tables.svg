@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="kspread.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/kspread.png"
+   sodipodi:docname="tables.svg"
+   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/tables.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10762,7 +10762,7 @@
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
        id="tspan9676"><tspan
    id="tspan9710"
-   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">KSpread</tspan> is a fully-featured</tspan><tspan
+   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">Calligra Tables </tspan>is a fully-featured</tspan><tspan
        sodipodi:role="line"
        x="753.2149"
        y="234.79639"
@@ -10794,18 +10794,18 @@
        id="tspan5918"
        x="142"
        y="82"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">KSpread</tspan></text>
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Tables</tspan></text>
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread5.png"
      xlink:href="screenshots/kspread/kspread5.png"
-     style="opacity:0.40076336"
-     mask="url(#mask7053)"
-     transform="matrix(1.0661424,0,0,-1,-32.921283,-52)"
-     width="248.55968"
-     height="56.232567"
-     id="image6079-5"
+     y="-287.95099"
      x="338.53009"
-     y="-287.95099" />
+     id="image6079-5"
+     height="56.232567"
+     width="248.55968"
+     transform="matrix(1.0661424,0,0,-1,-32.921283,-52)"
+     mask="url(#mask7053)"
+     style="opacity:0.40076336" />
   <g
      id="layer1"
      inkscape:label="Livello 1"
@@ -12207,47 +12207,47 @@
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread5.png"
      xlink:href="screenshots/kspread/kspread5.png"
-     y="20.156258"
-     x="328"
-     id="image9866"
+     width="265"
      height="155.6875"
-     width="265" />
+     id="image9866"
+     x="328"
+     y="20.156258" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread3.png"
      xlink:href="screenshots/kspread/kspread3.png"
-     y="132.31648"
-     x="92.5"
-     id="image9937"
+     width="124"
      height="103.36705"
-     width="124" />
+     id="image9937"
+     x="92.5"
+     y="132.31648" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread3.png"
      xlink:href="screenshots/kspread/kspread3.png"
-     y="-287.95099"
-     x="338.53009"
-     id="image6079-5-5"
-     height="56.232567"
-     width="248.55968"
-     transform="matrix(0.49887416,0,0,-0.71133157,-76.383914,75.171371)"
-     mask="url(#mask7053-7)"
-     style="opacity:0.40076336" />
-  <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread4.png"
-     xlink:href="screenshots/kspread/kspread4.png"
-     width="172"
-     height="101.18437"
-     id="image10138"
-     x="681"
-     y="17.407806" />
-  <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread4.png"
-     xlink:href="screenshots/kspread/kspread4.png"
      style="opacity:0.40076336"
-     mask="url(#mask7053-6)"
-     transform="matrix(0.69198674,0,0,-1,446.74167,-107.83471)"
+     mask="url(#mask7053-7)"
+     transform="matrix(0.49887416,0,0,-0.71133157,-76.383914,75.171371)"
      width="248.55968"
      height="56.232567"
-     id="image6079-5-2"
+     id="image6079-5-5"
      x="338.53009"
      y="-287.95099" />
+  <image
+     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread4.png"
+     xlink:href="screenshots/kspread/kspread4.png"
+     y="17.407806"
+     x="681"
+     id="image10138"
+     height="101.18437"
+     width="172" />
+  <image
+     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kspread/kspread4.png"
+     xlink:href="screenshots/kspread/kspread4.png"
+     y="-287.95099"
+     x="338.53009"
+     id="image6079-5-2"
+     height="56.232567"
+     width="248.55968"
+     transform="matrix(0.69198674,0,0,-1,446.74167,-107.83471)"
+     mask="url(#mask7053-6)"
+     style="opacity:0.40076336" />
 </svg>

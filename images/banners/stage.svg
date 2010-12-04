@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="kpresenter.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/kpresenter.png"
+   sodipodi:docname="stage.svg"
+   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/stage.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9467,11 +9467,11 @@
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/2008_08_26_presenter_view_main.png"
      xlink:href="screenshots/kpresenter/2008_08_26_presenter_view_main.png"
-     width="148"
-     height="111"
-     id="image6008"
+     y="124.81658"
      x="111.15242"
-     y="124.81658" />
+     id="image6008"
+     height="111"
+     width="148" />
   <g
      id="layer4-5"
      inkscape:label="box"
@@ -9920,9 +9920,7 @@
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
        id="tspan13030"><tspan
    id="tspan5906"
-   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"><tspan
-     style="font-size:12px"
-     id="tspan5914">KPresenter</tspan></tspan>is a powerful </tspan><tspan
+   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">Calligra Stage </tspan>is a powerful </tspan><tspan
        sodipodi:role="line"
        x="757.2149"
        y="208.79639"
@@ -9964,23 +9962,23 @@
        id="tspan5918"
        x="142"
        y="82"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">KPresenter</tspan></text>
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Stage</tspan></text>
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/multiple_master_slides.png"
      xlink:href="screenshots/kpresenter/multiple_master_slides.png"
-     width="248.55968"
-     height="177.72017"
-     id="image6079"
+     y="50.846642"
      x="338.1384"
-     y="50.846642" />
+     id="image6079"
+     height="177.72017"
+     width="248.55968" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/slide_transitions.png"
      xlink:href="screenshots/kpresenter/slide_transitions.png"
-     width="195.74333"
-     height="139.95648"
-     id="image6150"
+     y="13.77033"
      x="635.96503"
-     y="13.77033" />
+     id="image6150"
+     height="139.95648"
+     width="195.74333" />
   <use
      x="0"
      y="0"
@@ -9994,23 +9992,23 @@
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/multiple_master_slides.png"
      xlink:href="screenshots/kpresenter/multiple_master_slides.png"
-     style="opacity:0.40076336"
-     mask="url(#mask7053)"
-     transform="scale(1,-1)"
-     width="248.55968"
-     height="56.232567"
-     id="image6079-5"
+     y="-287.95099"
      x="338.53009"
-     y="-287.95099" />
+     id="image6079-5"
+     height="56.232567"
+     width="248.55968"
+     transform="scale(1,-1)"
+     mask="url(#mask7053)"
+     style="opacity:0.40076336" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/2008_08_26_presenter_view_main.png"
      xlink:href="screenshots/kpresenter/2008_08_26_presenter_view_main.png"
-     style="opacity:0.4"
-     mask="url(#mask7139)"
-     transform="scale(1,-1)"
-     width="148"
-     height="45.710743"
-     id="image6008-4"
+     y="-283.51654"
      x="111.12395"
-     y="-283.51654" />
+     id="image6008-4"
+     height="45.710743"
+     width="148"
+     transform="scale(1,-1)"
+     mask="url(#mask7139)"
+     style="opacity:0.4" />
 </svg>

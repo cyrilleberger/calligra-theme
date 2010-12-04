@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="kword.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/kword.png"
+   sodipodi:docname="words.svg"
+   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/words.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -13481,27 +13481,27 @@
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
        id="tspan13040"><tspan
    id="tspan5906"
-   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">KWord</tspan> is an intuitive word processor</tspan><tspan
+   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">Calligra Words</tspan> is an intuitive word</tspan><tspan
        sodipodi:role="line"
        x="733.23175"
        y="224.1021"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan9859">application with desktop publishing</tspan><tspan
+       id="tspan9859">processor application with desktop</tspan><tspan
        sodipodi:role="line"
        x="733.23175"
        y="236.1021"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan9861">features. With it, you can create</tspan><tspan
+       id="tspan9861">publishing features. With it, you can</tspan><tspan
        sodipodi:role="line"
        x="733.23175"
        y="248.1021"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan9865">informative and attractive documents</tspan><tspan
+       id="tspan9865">create informative and attractive</tspan><tspan
        sodipodi:role="line"
        x="733.23175"
-       y="248.1021"
+       y="260.10211"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan9875">with ease.</tspan></text>
+       id="tspan9875">documents with ease.</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:James Fajardo;-inkscape-font-specification:James Fajardo"
@@ -13513,18 +13513,18 @@
        id="tspan5918"
        x="158"
        y="63"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">KWord</tspan></text>
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Words</tspan></text>
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword3.png"
      xlink:href="screenshots/kword/kword3.png"
-     style="opacity:0.40076336"
-     mask="url(#mask7053)"
-     transform="matrix(0.94142382,0,0,-0.94142382,66.29971,-38.08392)"
-     width="248.55968"
-     height="56.232567"
-     id="image6079-5"
+     y="-287.95099"
      x="338.53009"
-     y="-287.95099" />
+     id="image6079-5"
+     height="56.232567"
+     width="248.55968"
+     transform="matrix(0.94142382,0,0,-0.94142382,66.29971,-38.08392)"
+     mask="url(#mask7053)"
+     style="opacity:0.40076336" />
   <g
      id="g11518"
      transform="matrix(1.0357015,0,0,1.0357015,-73.705705,34.042354)">
@@ -14016,47 +14016,47 @@
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword1.png"
      xlink:href="screenshots/kword/kword1.png"
-     width="123"
-     height="86.484383"
-     id="image9965"
+     y="15.515617"
      x="775"
-     y="15.515617" />
+     id="image9965"
+     height="86.484383"
+     width="123" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword3.png"
      xlink:href="screenshots/kword/kword3.png"
-     width="234"
-     height="164.53125"
-     id="image10036"
+     y="7.46875"
      x="385"
-     y="7.46875" />
+     id="image10036"
+     height="164.53125"
+     width="234" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword-text4.png"
      xlink:href="screenshots/kword/kword-text4.png"
-     width="121"
-     height="89.284134"
-     id="image10107"
+     y="137.71587"
      x="96"
-     y="137.71587" />
+     id="image10107"
+     height="89.284134"
+     width="121" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword1.png"
      xlink:href="screenshots/kword/kword1.png"
-     y="-287.95099"
-     x="338.53009"
-     id="image6079-5-6"
-     height="56.232567"
-     width="248.55968"
-     transform="matrix(0.49485098,0,0,-0.49485098,607.47805,-8.492829)"
+     style="opacity:0.40076336"
      mask="url(#mask7053-1)"
-     style="opacity:0.40076336" />
+     transform="matrix(0.49485098,0,0,-0.49485098,607.47805,-8.492829)"
+     width="248.55968"
+     height="56.232567"
+     id="image6079-5-6"
+     x="338.53009"
+     y="-287.95099" />
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword-text4.png"
      xlink:href="screenshots/kword/kword-text4.png"
-     y="-287.95099"
-     x="338.53009"
-     id="image6079-5-3"
-     height="56.232567"
-     width="248.55968"
-     transform="matrix(0.48680462,0,0,-0.48680462,-68.798012,116.82413)"
+     style="opacity:0.40076336"
      mask="url(#mask7053-4)"
-     style="opacity:0.40076336" />
+     transform="matrix(0.48680462,0,0,-0.48680462,-68.798012,116.82413)"
+     width="248.55968"
+     height="56.232567"
+     id="image6079-5-3"
+     x="338.53009"
+     y="-287.95099" />
 </svg>

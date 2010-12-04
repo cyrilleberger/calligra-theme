@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="kplato.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/kplato.png"
+   sodipodi:docname="plan.svg"
+   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/plan.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -9523,15 +9523,6 @@
          id="rect5193-2"
          style="fill:#2c2c2c;fill-opacity:1;stroke:none" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       id="filter5227"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.48597756"
-         id="feGaussianBlur5229" />
-    </filter>
     <linearGradient
        id="linearGradient5727-6">
       <stop
@@ -9835,15 +9826,6 @@
          id="rect4877-0"
          style="fill:url(#linearGradient4879);fill-opacity:1;stroke:#1b1b1b;stroke-width:0.147;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     </clipPath>
-    <filter
-       id="filter4913"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4915"
-         stdDeviation="0.58252427"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="63.986359"
        x2="298.9325"
@@ -11530,7 +11512,7 @@
        x="705.2149"
        y="249.69421"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
-       id="tspan9722">KPlato<tspan
+       id="tspan9722">Calligra Plan<tspan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
    id="tspan9346"> for project planning</tspan></tspan></text>
   <text
@@ -11544,7 +11526,7 @@
        id="tspan5918"
        x="174"
        y="81"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">KPlato</tspan></text>
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Plan</tspan></text>
   <image
      sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kplato/gantt2.png"
      xlink:href="screenshots/kplato/gantt2.png"
