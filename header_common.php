@@ -84,7 +84,7 @@
     $banner_image = "getcalligra.png";
   elseif(has_ancestor("get-help")):
     $banner_image = "gethelp.png";
-  elseif(is_archive()):
+  elseif(is_archive() or is_single()):
     $banner_image = "archive.png";
   endif
   
