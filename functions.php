@@ -439,7 +439,7 @@ function has_ancestor($name) {      // $pid = The ID of the page we're looking f
 
 function fix_main_menu_class($classes, $item) {
   if($item->title == "Learn more") {
-    if(has_ancestor("kword") or has_ancestor("kspread") or has_ancestor("kpresenter") or has_ancestor("kexi") or has_ancestor("kplato") or has_ancestor("kivio") or has_ancestor("krita") or has_ancestor("karbon") ) {
+    if(has_ancestor("words") or has_ancestor("tables") or has_ancestor("stage") or has_ancestor("kexi") or has_ancestor("plan") or has_ancestor("flow") or has_ancestor("krita") or has_ancestor("karbon") ) {
       array_push($classes,'current_page_item');
     }
   }

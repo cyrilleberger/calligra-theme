@@ -55,23 +55,23 @@
   
   if(is_home() or is_page("learn-more")):
     $banner_image = "appsmatrix.png";
-  elseif(has_ancestor("kword")):
-    $banner_image = "kword.png";
-    $secondary_menu = "kword";
-  elseif(has_ancestor("kpresenter")):
-    $banner_image = "kpresenter.png";
-    $secondary_menu = "kpresenter";
-  elseif(has_ancestor("kspread")):
-    $banner_image = "kspread.png";
-    $secondary_menu = "kspread";
+  elseif(has_ancestor("words")):
+    $banner_image = "words.png";
+    $secondary_menu = "words";
+  elseif(has_ancestor("stage")):
+    $banner_image = "stage.png";
+    $secondary_menu = "stage";
+  elseif(has_ancestor("tables")):
+    $banner_image = "tables.png";
+    $secondary_menu = "tables";
   elseif(has_ancestor("kexi")):
     $banner_image = "kexi.png";
     $secondary_menu = "kexi";
-  elseif(has_ancestor("kivio")):
-    $banner_image = "kivio.png";
+  elseif(has_ancestor("flow")):
+    $banner_image = "flow.png";
     $secondary_menu = "";
-  elseif(has_ancestor("kplato")):
-    $banner_image = "kplato.png";
+  elseif(has_ancestor("plan")):
+    $banner_image = "plan.png";
     $secondary_menu = "";
   elseif(has_ancestor("karbon")):
     $banner_image = "karbon.png";
