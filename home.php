@@ -138,7 +138,8 @@ query_posts('posts_per_page=50');
                                   ) );
       lifestream("Forum", array( 'http://forum.kde.org/smartfeed.php?forum=96&limit=NO_LIMIT&count_limit=10&sort_by=standard&feed_type=ATOM1.0&feed_style=COMPACT', 'http://forum.kde.org/smartfeed.php?forum=203&limit=NO_LIMIT&count_limit=10&sort_by=standard&feed_type=ATOM1.0&feed_style=COMPACT' ) );
       lifestream("Microblogging", array( 'http://identi.ca/api/statusnet/groups/timeline/1921.atom',
-                                          'http://identi.ca/api/statuses/user_timeline/115013.atom' ) );
+                                          'http://identi.ca/api/statuses/user_timeline/115013.atom',
+					  'http://identi.ca/api/statusnet/groups/timeline/22924.atom' ) );
       ?>
       <h3>KOffice around the web</h3>
       <ul>
