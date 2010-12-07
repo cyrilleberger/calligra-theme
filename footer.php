@@ -16,9 +16,8 @@
 		<div id="colophon">
 
 			<div id="site-info">
-				<a href="<?php echo home_url( '/' ) ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
-					<?php bloginfo( 'name' ); ?>
-				</a>
+				<iframe src="http://www.facebook.com/plugins/like.php?href=http%253A%252F%252Fwww.facebook.com%252Fpages%252FCalligra%252F161929600510563%253Fref%253Dts&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+
 			</div><!-- #site-info -->
 
 			<div id="site-generator">
