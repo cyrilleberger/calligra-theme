@@ -33,8 +33,7 @@ query_posts('posts_per_page=50');
       ?>
       <?php
           showpost('stable');
-      //         showpost('unstable');
-      //         showpost('freoffice');
+          showpost('unstable');
       ?>
 
       <div class="navigation">
