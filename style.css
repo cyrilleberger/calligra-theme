@@ -103,6 +103,7 @@ h3#reply-title,
 .entry-content thead th,
 .entry-meta,
 .entry-title,
+.small-entry-title,
 .entry-utility,
 #respond label,
 .navigation,
@@ -569,11 +570,22 @@ div.menu li {
 	line-height: 1.3em;
 	margin-bottom: 0;
 }
+#content .small-entry-title {
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1.3em;
+  margin-bottom: 0;
+}
+.small-entry-title a:link,
+.small-entry-title a:visited,
 .entry-title a:link,
 .entry-title a:visited {
 	color: #000;
 	text-decoration: none;
 }
+.small-entry-title a:active,
+.small-entry-title a:hover,
 .entry-title a:active,
 .entry-title a:hover {
 	color: #ff4b33;
@@ -1272,9 +1284,12 @@ code {
 		font-size: 14pt;
 		line-height: 1.6em;
 	}
-	.entry-title {
-		font-size: 21pt;
-	}
+  .entry-title {
+    font-size: 21pt;
+  }
+  .smalle-entry-title {
+    font-size: 12pt;
+  }
 	#access,
 	#branding img,
 	#respond,
@@ -1386,6 +1401,80 @@ body {
 .lifestream a:link {color:#000; text-decoration: none; }
 .lifestream a:hover {color:#000; text-decoration: underline; }
 .lifestream a:visited {color:#000;}
+
+/* =Introduction Beta
+-------------------------------------------------------------- */
+
+.introductionbeta {
+  width: 300px;
+  float: left;
+  margin-left:0px;
+  margin-right:0px;
+  background: #fffff;
+}
+
+.introductionbeta h2 {
+  font-size: 2.0em;
+  font-weight: bold;
+}
+
+.introductionbeta .post, .newsbeta .navigation {
+  margin-left: 20px;
+}
+
+/* =News Beta
+-------------------------------------------------------------- */
+
+.newsbeta {
+  width: 300px;
+  float: left;
+  margin-left:10px;
+  margin-right:0px;
+  background: #f9f9f9;
+}
+
+.newsbeta h2 {
+  font-size: 2.0em;
+  font-weight: bold;
+}
+
+.newsbeta .post, .newsbeta .navigation {
+  margin-left: 20px;
+}
+
+/* =Life stream Beta
+-------------------------------------------------------------- */
+
+.lifestreambeta {
+  font-size: 0.8em;
+  width: 300px;
+  float:right;
+  margin-left:10px;
+  margin-right:0px;
+  background: #ffffff;
+}
+
+.lifestreambeta h2, .lifestreambeta h3 {
+  padding-left: 5px;
+}
+
+.lifestreambeta h3 {
+  font-weight: bold;
+}
+
+.lifestreambeta ul {
+  list-style-type: none;
+}
+
+.lifestreambeta li {
+  margin-bottom: 7px;
+  padding-right: 5px;
+  overflow: hidden;
+}
+
+.lifestreambeta a:link {color:#000; text-decoration: none; }
+.lifestreambeta a:hover {color:#000; text-decoration: underline; }
+.lifestreambeta a:visited {color:#000;}
 
 /* =Banner
 -------------------------------------------------------------- */

@@ -53,7 +53,7 @@
   $banner_class = "";
   $secondary_menu = "";
   
-  if(is_home() or is_page("learn-more")):
+  if(is_home() or is_page("learn-more") or is_page("homebeta")):
     $banner_class = "appsmatrix";
   elseif(has_ancestor("words")):
     $banner_class = "words";
