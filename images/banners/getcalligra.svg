@@ -16,9 +16,9 @@
    height="290"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="getcalligra.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/getcalligra.png"
+   inkscape:export-filename="getcalligra.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -42,15 +42,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1152"
      id="namedview1391"
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="524.52676"
      inkscape:cy="204.78595"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -15692,19 +15692,6 @@
          offset="1"
          style="stop-color:#f6f5f5;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="2.0255013"
-       y="-0.51275069"
-       width="1.9574188"
-       x="-0.47870937"
-       id="filter6171-8"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur6173-8"
-         stdDeviation="10.140743"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath3854"
        clipPathUnits="userSpaceOnUse">
@@ -15715,19 +15702,6 @@
          sodipodi:nodetypes="cccssccc"
          inkscape:connector-curvature="0" />
     </clipPath>
-    <filter
-       height="1.2412944"
-       y="-0.12064722"
-       width="1.225275"
-       x="-0.1126375"
-       id="filter6118-4"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur6120-3"
-         stdDeviation="2.3860572"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath6093-7"
        clipPathUnits="userSpaceOnUse">
@@ -15761,15 +15735,6 @@
          offset="1"
          style="stop-color:#cecbcb;stop-opacity:1" />
     </linearGradient>
-    <filter
-       id="filter3909-6"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3911-9"
-         stdDeviation="0.43040059"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath3889-6"
        clipPathUnits="userSpaceOnUse">
@@ -15847,14 +15812,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccssscccccc" />
     </clipPath>
-    <filter
-       id="filter4989"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4991"
-         stdDeviation="0.74306545"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath5480"
        clipPathUnits="userSpaceOnUse">
@@ -17754,15 +17711,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccssscccccc" />
     </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter4989-8"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4991-8"
-         stdDeviation="0.74306545"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath6093-7-0"
        clipPathUnits="userSpaceOnUse">
@@ -17773,19 +17721,6 @@
          sodipodi:nodetypes="cccssccc"
          inkscape:connector-curvature="0" />
     </clipPath>
-    <filter
-       height="2.0255013"
-       y="-0.51275069"
-       width="1.9574188"
-       x="-0.47870937"
-       id="filter6171-8-7"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur6173-8-0"
-         stdDeviation="10.140743"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath12308"
        clipPathUnits="userSpaceOnUse">
@@ -17796,19 +17731,6 @@
          sodipodi:nodetypes="cccssccc"
          inkscape:connector-curvature="0" />
     </clipPath>
-    <filter
-       height="1.2412944"
-       y="-0.12064722"
-       width="1.225275"
-       x="-0.1126375"
-       id="filter6118-4-6"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur6120-3-9"
-         stdDeviation="2.3860572"
-         inkscape:collect="always" />
-    </filter>
     <mask
        id="mask4222-2"
        maskUnits="userSpaceOnUse">
@@ -18078,15 +18000,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscscssc" />
     </clipPath>
-    <filter
-       id="filter3909-6-2"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3911-9-0"
-         stdDeviation="0.43040059"
-         inkscape:collect="always" />
-    </filter>
     <radialGradient
        r="18.750002"
        fy="110.25299"
@@ -35917,6 +35830,13 @@
        fy="110.25299"
        r="18.750002" />
   </defs>
+  <image
+     width="1000"
+     height="316"
+     xlink:href="data:image/png;base64,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 "
+     id="image5089"
+     x="-30"
+     y="-1" />
   <g
      id="layer1-1-8"
      inkscape:label="Livello 1"
@@ -36719,35 +36639,6 @@
        y="165.88423" /></text>
   <text
      xml:space="preserve"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:ChopinScript;-inkscape-font-specification:ChopinScript"
-     x="787.26239"
-     y="244.03453"
-     id="text12956-6"
-     sodipodi:linespacing="100%"><tspan
-       sodipodi:role="line"
-       x="787.26239"
-       y="244.03453"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan7555"><tspan
-   id="tspan5906"
-   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">Calligra Suite</tspan> is distributed</tspan><tspan
-       sodipodi:role="line"
-       x="787.26239"
-       y="256.13672"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan7082">as source code, but various</tspan><tspan
-       sodipodi:role="line"
-       x="787.26239"
-       y="268.13672"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan7084">other projects deliver binary</tspan><tspan
-       sodipodi:role="line"
-       x="787.26239"
-       y="280.13672"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan7086">packages.</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:James Fajardo;-inkscape-font-specification:James Fajardo"
      x="164"
      y="67"
@@ -36762,33 +36653,37 @@
      id="g8620"
      transform="translate(27,3)">
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-gearflowers.png"
        xlink:href="screenshots/karbon/karbon-gearflowers.png"
-       width="87"
-       height="74.69268"
-       id="image7230"
+       y="77.653656"
        x="363.5"
-       y="77.653656" />
+       id="image7230"
+       height="74.69268"
+       width="87" />
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kpresenter/slide_transitions.png"
        xlink:href="screenshots/kpresenter/slide_transitions.png"
-       width="70"
-       height="50.049999"
-       id="image7358"
+       y="121.97499"
        x="421"
-       y="121.97499" />
+       id="image7358"
+       height="50.049999"
+       width="70" />
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/krita/girl_by_enkhitan.png"
        xlink:href="screenshots/krita/girl_by_enkhitan.png"
-       width="96"
-       height="69.536659"
-       id="image7797"
+       y="39.231674"
        x="420.5"
-       y="39.231674" />
+       id="image7797"
+       height="69.536659"
+       width="96" />
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kword/kword3.png"
        xlink:href="screenshots/kword/kword3.png"
-       width="111"
-       height="78.046875"
-       id="image7597"
+       y="71.976562"
        x="464"
-       y="71.976562" />
+       id="image7597"
+       height="78.046875"
+       width="111" />
   </g>
   <g
      id="g7835"
@@ -36796,33 +36691,37 @@
      mask="url(#mask7841)"
      style="opacity:0.4">
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-gearflowers.png"
        xlink:href="screenshots/karbon/karbon-gearflowers.png"
-       width="87"
-       height="74.69268"
-       id="image7230-8"
+       y="59.025322"
        x="424.25"
-       y="59.025322" />
+       id="image7230-8"
+       height="74.69268"
+       width="87" />
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kpresenter/slide_transitions.png"
        xlink:href="screenshots/kpresenter/slide_transitions.png"
-       width="70"
-       height="50.049999"
-       id="image7358-4"
+       y="103.34666"
        x="481.75"
-       y="103.34666" />
+       id="image7358-4"
+       height="50.049999"
+       width="70" />
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/krita/girl_by_enkhitan.png"
        xlink:href="screenshots/krita/girl_by_enkhitan.png"
-       width="96"
-       height="69.536659"
-       id="image7797-3"
+       y="20.603342"
        x="481.25"
-       y="20.603342" />
+       id="image7797-3"
+       height="69.536659"
+       width="96" />
     <image
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kword/kword3.png"
        xlink:href="screenshots/kword/kword3.png"
-       width="111"
-       height="78.046875"
-       id="image7597-1"
+       y="53.348228"
        x="524.75"
-       y="53.348228" />
+       id="image7597-1"
+       height="78.046875"
+       width="111" />
   </g>
   <g
      style="overflow:visible"

@@ -14,9 +14,9 @@
    height="290"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="karbon.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/karbon.png"
+   inkscape:export-filename="karbon.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -40,15 +40,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1152"
      id="namedview1391"
      showgrid="false"
      inkscape:zoom="1.0729879"
      inkscape:cx="436.54895"
      inkscape:cy="98.692111"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -9019,19 +9019,6 @@
          id="path4792-2"
          sodipodi:nodetypes="cssszscssscssscsscssssssssssssssss" />
     </clipPath>
-    <filter
-       height="1.2258548"
-       y="-0.11292741"
-       width="1.1763539"
-       x="-0.088176951"
-       id="filter4786"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4788"
-         stdDeviation="2.4055891"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="XMLID_35_">
       <path
@@ -9518,15 +9505,6 @@
          x="0"
          id="use10454-9" />
     </clipPath>
-    <filter
-       id="filter3069"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="2.3442782"
-         id="feGaussianBlur3071"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient7885">
       <stop
@@ -10398,15 +10376,6 @@
          d="m -242.5397,-118.4375 c -17.82331,0 -57.7255,0.0924 -61.78125,4.1875 l 25.0625,224.71875 c 2.48978,3.87913 3.78181,7.44567 2,12.6875 -1.31562,6.14616 0.087,10.95451 1.40625,16.65625 0.47582,1.81061 1.09041,3.5444 0,6.25 -1.92437,5.93062 -2.63574,11.07324 -2.09375,18.03125 4.21524,-4.21524 23.32907,-4.03126 35.40625,-4.03125 l 0,-0.0312 c 13.38725,-0.003 32.09966,0.0972 36.46875,4.03125 0.6018,-6.95669 -0.17575,-12.10176 -2.3125,-18.03125 -1.21073,-2.70509 -0.52833,-4.43973 0,-6.25 1.46482,-5.70065 2.99207,-10.51126 1.53125,-16.65625 -1.97841,-5.24084 -0.54581,-8.77785 2.21875,-12.65625 L -176.7897,-114.25 c -4.31358,-3.92179 -44.92415,-4.14388 -65.75,-4.15625 l 0,-0.0312 z"
          id="path4308-8-3" />
     </clipPath>
-    <filter
-       id="filter4300"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.1619733"
-         id="feGaussianBlur4302"
-         inkscape:collect="always" />
-    </filter>
     <inkscape:perspective
        id="perspective9870"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
@@ -11414,13 +11383,20 @@
     </linearGradient>
   </defs>
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-sticker.png"
+     width="1000"
+     height="316"
+     xlink:href="data:image/png;base64,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 "
+     id="image5089"
+     x="-30"
+     y="-1" />
+  <image
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-sticker.png"
      xlink:href="screenshots/karbon/karbon-sticker.png"
-     width="155"
-     height="133.07318"
-     id="image9189"
+     y="101.17421"
      x="93"
-     y="101.17421" />
+     id="image9189"
+     height="133.07318"
+     width="155" />
   <g
      id="layer4-5"
      inkscape:label="box"
@@ -11485,20 +11461,6 @@
        y="165.88423" /></text>
   <text
      xml:space="preserve"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:ChopinScript;-inkscape-font-specification:ChopinScript"
-     x="730.5957"
-     y="237.7012"
-     id="text12956-6"
-     sodipodi:linespacing="100%"><tspan
-       sodipodi:role="line"
-       x="730.5957"
-       y="237.7012"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan13040"><tspan
-   id="tspan5906"
-   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">Karbon</tspan> for drawing vector graphics</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:James Fajardo;-inkscape-font-specification:James Fajardo"
      x="158"
      y="63"
@@ -11510,16 +11472,16 @@
        y="63"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Karbon</tspan></text>
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-gearflowers.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-gearflowers.png"
      xlink:href="screenshots/karbon/karbon-gearflowers.png"
-     style="opacity:0.40076336"
-     mask="url(#mask7053)"
-     transform="matrix(0.9253311,0,0,-0.9253311,63.183048,3.3179039)"
-     width="248.55968"
-     height="56.232567"
-     id="image6079-5"
+     y="-287.95099"
      x="338.53009"
-     y="-287.95099" />
+     id="image6079-5"
+     height="56.232567"
+     width="248.55968"
+     transform="matrix(0.9253311,0,0,-0.9253311,63.183048,3.3179039)"
+     mask="url(#mask7053)"
+     style="opacity:0.40076336" />
   <g
      transform="matrix(1.0077743,0,0,1.0077743,-517.77554,-163.46541)"
      id="g7232">
@@ -11852,41 +11814,41 @@
     </g>
   </g>
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-gearflowers.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-gearflowers.png"
      xlink:href="screenshots/karbon/karbon-gearflowers.png"
-     width="230"
-     height="197.46341"
-     id="image9047"
+     y="15.534889"
      x="376.43546"
-     y="15.534889" />
+     id="image9047"
+     height="197.46341"
+     width="230" />
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-logo.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-logo.png"
      xlink:href="screenshots/karbon/karbon-logo.png"
-     width="144"
-     height="115.34049"
-     id="image9118"
+     y="14.36002"
      x="700"
-     y="14.36002" />
+     id="image9118"
+     height="115.34049"
+     width="144" />
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-sticker.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-sticker.png"
      xlink:href="screenshots/karbon/karbon-sticker.png"
-     y="-287.95099"
-     x="338.53009"
-     id="image6079-5-8"
-     height="56.232567"
-     width="248.55968"
-     transform="matrix(0.6235927,0,0,-0.6235927,-118.10489,95.435865)"
-     mask="url(#mask7053-5)"
-     style="opacity:0.40076336" />
-  <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-logo.png"
-     xlink:href="screenshots/karbon/karbon-logo.png"
      style="opacity:0.40076336"
-     mask="url(#mask7053-5-5)"
-     transform="matrix(0.6235927,0,0,-0.6235927,488.89511,-9.0316337)"
+     mask="url(#mask7053-5)"
+     transform="matrix(0.6235927,0,0,-0.6235927,-118.10489,95.435865)"
      width="248.55968"
      height="56.232567"
-     id="image6079-5-8-9"
+     id="image6079-5-8"
      x="338.53009"
      y="-287.95099" />
+  <image
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-logo.png"
+     xlink:href="screenshots/karbon/karbon-logo.png"
+     y="-287.95099"
+     x="338.53009"
+     id="image6079-5-8-9"
+     height="56.232567"
+     width="248.55968"
+     transform="matrix(0.6235927,0,0,-0.6235927,488.89511,-9.0316337)"
+     mask="url(#mask7053-5-5)"
+     style="opacity:0.40076336" />
 </svg>

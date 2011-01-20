@@ -15,9 +15,9 @@
    height="290"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="archive.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/archive.png"
+   inkscape:export-filename="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/archive.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,15 +41,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1152"
      id="namedview1391"
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="471.25468"
      inkscape:cy="135.94255"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -28740,6 +28740,13 @@
        inkscape:vp_x="0 : 64 : 1"
        sodipodi:type="inkscape:persp3d" />
   </defs>
+  <image
+     width="1000"
+     height="316"
+     xlink:href="data:image/png;base64,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 "
+     id="image5089"
+     x="-30"
+     y="-1" />
   <g
      id="layer4-5"
      inkscape:label="box"
@@ -28804,22 +28811,6 @@
        y="165.88423" /></text>
   <text
      xml:space="preserve"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:ChopinScript;-inkscape-font-specification:ChopinScript"
-     x="730.26239"
-     y="277.03455"
-     id="text12956-6"
-     sodipodi:linespacing="100%"><tspan
-       sodipodi:role="line"
-       x="730.26239"
-       y="277.03455"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
-       id="tspan10977">Archive<tspan
-   style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="tspan8163"> of </tspan>news <tspan
-   style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="tspan10954">related to </tspan>Calligra</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:James Fajardo;-inkscape-font-specification:James Fajardo"
      x="164"
      y="67"
@@ -28834,37 +28825,37 @@
      id="g8620"
      transform="translate(27,3)">
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-gearflowers.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-gearflowers.png"
        xlink:href="screenshots/karbon/karbon-gearflowers.png"
-       y="77.653656"
-       x="363.5"
-       id="image7230"
+       width="87"
        height="74.69268"
-       width="87" />
+       id="image7230"
+       x="363.5"
+       y="77.653656" />
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/slide_transitions.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kpresenter/slide_transitions.png"
        xlink:href="screenshots/kpresenter/slide_transitions.png"
-       y="121.97499"
-       x="421"
-       id="image7358"
+       width="70"
        height="50.049999"
-       width="70" />
+       id="image7358"
+       x="421"
+       y="121.97499" />
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/krita/girl_by_enkhitan.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/krita/girl_by_enkhitan.png"
        xlink:href="screenshots/krita/girl_by_enkhitan.png"
-       y="39.231674"
-       x="420.5"
-       id="image7797"
+       width="96"
        height="69.536659"
-       width="96" />
+       id="image7797"
+       x="420.5"
+       y="39.231674" />
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword3.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kword/kword3.png"
        xlink:href="screenshots/kword/kword3.png"
-       y="71.976562"
-       x="464"
-       id="image7597"
+       width="111"
        height="78.046875"
-       width="111" />
+       id="image7597"
+       x="464"
+       y="71.976562" />
   </g>
   <g
      id="g7835"
@@ -28872,37 +28863,37 @@
      mask="url(#mask7841)"
      style="opacity:0.4">
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/karbon/karbon-gearflowers.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/karbon/karbon-gearflowers.png"
        xlink:href="screenshots/karbon/karbon-gearflowers.png"
-       y="59.025322"
-       x="424.25"
-       id="image7230-8"
+       width="87"
        height="74.69268"
-       width="87" />
+       id="image7230-8"
+       x="424.25"
+       y="59.025322" />
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kpresenter/slide_transitions.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kpresenter/slide_transitions.png"
        xlink:href="screenshots/kpresenter/slide_transitions.png"
-       y="103.34666"
-       x="481.75"
-       id="image7358-4"
+       width="70"
        height="50.049999"
-       width="70" />
+       id="image7358-4"
+       x="481.75"
+       y="103.34666" />
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/krita/girl_by_enkhitan.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/krita/girl_by_enkhitan.png"
        xlink:href="screenshots/krita/girl_by_enkhitan.png"
-       y="20.603342"
-       x="481.25"
-       id="image7797-3"
+       width="96"
        height="69.536659"
-       width="96" />
+       id="image7797-3"
+       x="481.25"
+       y="20.603342" />
     <image
-       sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kword/kword3.png"
+       sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kword/kword3.png"
        xlink:href="screenshots/kword/kword3.png"
-       y="53.348228"
-       x="524.75"
-       id="image7597-1"
+       width="111"
        height="78.046875"
-       width="111" />
+       id="image7597-1"
+       x="524.75"
+       y="53.348228" />
   </g>
   <path
      style="fill:#000000"

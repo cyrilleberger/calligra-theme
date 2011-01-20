@@ -14,9 +14,9 @@
    height="290"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="kexi.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/kexi.png"
+   inkscape:export-filename="kexi.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -40,15 +40,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1152"
      id="namedview1391"
      showgrid="false"
      inkscape:zoom="0.75871702"
      inkscape:cx="658.35129"
      inkscape:cy="173.20467"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -10608,15 +10608,6 @@
          d="m 170.75,112.2125 0,95.65625 133.65625,0 0,-95.65625 -133.65625,0 z m 83.21875,13.0625 c 9.12374,-0.15761 18.42231,1.54234 25.59375,5.625 1.69571,0.96536 3.26775,2.05927 4.71875,3.34375 7.45571,6.59999 12.25505,15.86897 5.8125,23.8125 -4.95923,6.11465 -14.54928,2.72253 -13.75,-2.46875 0.38406,-2.49446 2.06488,-6.52597 -0.75,-7.84375 -6.65167,-3.10772 -14.30867,2.03028 -17.09375,6.5625 -0.7176,1.16854 -2.06049,3.58958 -0.75,4.875 1.98691,1.94889 4.34731,0.34237 6.25,2.15625 4.55225,4.33979 -0.95841,16.08471 -6.84375,20.75 -8.84078,7.00805 -20.71268,11.57235 -33.0625,11.84375 -12.72402,0.27963 -25.96905,-3.89808 -36.9375,-14.78125 -0.68848,-0.68312 -1.73124,-1.98511 -2.375,-3.03125 -8.69162,-14.12418 -5.36227,-36.04241 12.75,-33.875 5.82767,0.69737 15.62944,8.43147 9.40625,19.1875 -1.74935,3.02354 -0.12504,5.44957 3.78125,5.90625 3.37222,0.49343 9.3871,-1.01317 13.84375,-4.21875 2.41491,-1.73699 4.32163,-3.77174 4.78125,-6.03125 0.62188,-3.05725 -1.10513,-6.24384 -3.75,-7.03125 -0.9596,-0.28568 -2.40525,0.44475 -1.84375,1.46875 0.56965,1.03885 -1.10346,2.23574 -2.625,1.59375 -7.59518,-3.2046 -4.33341,-13.10103 3.25,-19.21875 6.41056,-5.17156 17.86323,-8.42236 29.59375,-8.625 z m -58.78125,28.15625 c -1.40777,0.093 -2.96222,0.72381 -3.9375,1.6875 -3.62249,3.57946 -2.30706,10.31711 0.59375,14.65625 5.69034,8.51186 22.04666,18.23366 45.4375,10.34375 6.93627,-2.33965 11.95797,-9.30014 9.40625,-13 -0.90951,-1.31874 -2.51831,-0.53126 -5.0625,-0.53125 -2.88016,0 -4.21778,-0.9276 -5.25,0.5 -6.49989,8.98957 -17.86994,11.63734 -30.75,7.75 -6.58952,-1.9888 -10.41449,-7.96617 -10.375,-12.90625 -0.13101,-2.47374 0.579,-4.09482 1.8125,-4.25 1.12982,-0.14214 1.43621,-1.84518 1.125,-2.8125 -0.35236,-1.09525 -1.59223,-1.53048 -3,-1.4375 z"
          style="opacity:0.36633684;fill:#ffffff;fill-opacity:1;stroke:none" />
     </clipPath>
-    <filter
-       id="filter4063"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4065"
-         stdDeviation="1.1020371"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath8289"
        clipPathUnits="userSpaceOnUse">
@@ -10625,15 +10616,6 @@
          d="m 170.75,112.2125 0,95.65625 133.65625,0 0,-95.65625 -133.65625,0 z m 83.21875,13.0625 c 9.12374,-0.15761 18.42231,1.54234 25.59375,5.625 1.69571,0.96536 3.26775,2.05927 4.71875,3.34375 7.45571,6.59999 12.25505,15.86897 5.8125,23.8125 -4.95923,6.11465 -14.54928,2.72253 -13.75,-2.46875 0.38406,-2.49446 2.06488,-6.52597 -0.75,-7.84375 -6.65167,-3.10772 -14.30867,2.03028 -17.09375,6.5625 -0.7176,1.16854 -2.06049,3.58958 -0.75,4.875 1.98691,1.94889 4.34731,0.34237 6.25,2.15625 4.55225,4.33979 -0.95841,16.08471 -6.84375,20.75 -8.84078,7.00805 -20.71268,11.57235 -33.0625,11.84375 -12.72402,0.27963 -25.96905,-3.89808 -36.9375,-14.78125 -0.68848,-0.68312 -1.73124,-1.98511 -2.375,-3.03125 -8.69162,-14.12418 -5.36227,-36.04241 12.75,-33.875 5.82767,0.69737 15.62944,8.43147 9.40625,19.1875 -1.74935,3.02354 -0.12504,5.44957 3.78125,5.90625 3.37222,0.49343 9.3871,-1.01317 13.84375,-4.21875 2.41491,-1.73699 4.32163,-3.77174 4.78125,-6.03125 0.62188,-3.05725 -1.10513,-6.24384 -3.75,-7.03125 -0.9596,-0.28568 -2.40525,0.44475 -1.84375,1.46875 0.56965,1.03885 -1.10346,2.23574 -2.625,1.59375 -7.59518,-3.2046 -4.33341,-13.10103 3.25,-19.21875 6.41056,-5.17156 17.86323,-8.42236 29.59375,-8.625 z m -58.78125,28.15625 c -1.40777,0.093 -2.96222,0.72381 -3.9375,1.6875 -3.62249,3.57946 -2.30706,10.31711 0.59375,14.65625 5.69034,8.51186 22.04666,18.23366 45.4375,10.34375 6.93627,-2.33965 11.95797,-9.30014 9.40625,-13 -0.90951,-1.31874 -2.51831,-0.53126 -5.0625,-0.53125 -2.88016,0 -4.21778,-0.9276 -5.25,0.5 -6.49989,8.98957 -17.86994,11.63734 -30.75,7.75 -6.58952,-1.9888 -10.41449,-7.96617 -10.375,-12.90625 -0.13101,-2.47374 0.579,-4.09482 1.8125,-4.25 1.12982,-0.14214 1.43621,-1.84518 1.125,-2.8125 -0.35236,-1.09525 -1.59223,-1.53048 -3,-1.4375 z"
          style="opacity:0.36633684;fill:#ffffff;fill-opacity:1;stroke:none" />
     </clipPath>
-    <filter
-       id="filter3753"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3755"
-         stdDeviation="0.88162968"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient4061-2">
       <stop
@@ -11837,6 +11819,13 @@
          id="stop6162-9-5-9" />
     </linearGradient>
   </defs>
+  <image
+     width="1000"
+     height="316"
+     xlink:href="data:image/png;base64,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 "
+     id="image5089"
+     x="-30"
+     y="-1" />
   <g
      id="layer4-5"
      inkscape:label="box"
@@ -11901,20 +11890,6 @@
        y="165.88423" /></text>
   <text
      xml:space="preserve"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:ChopinScript;-inkscape-font-specification:ChopinScript"
-     x="730.5957"
-     y="237.7012"
-     id="text12956-6"
-     sodipodi:linespacing="100%"><tspan
-       sodipodi:role="line"
-       x="730.5957"
-       y="237.7012"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       id="tspan13040"><tspan
-   id="tspan5906"
-   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">Kexi</tspan> for integrated data management</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:James Fajardo;-inkscape-font-specification:James Fajardo"
      x="158"
      y="63"
@@ -11926,16 +11901,16 @@
        y="63"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Kexi</tspan></text>
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kexi/kexi-2.2-alpha1-form-datasource-tags-e1269040847682.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kexi/kexi-2.2-alpha1-form-datasource-tags-e1269040847682.png"
      xlink:href="screenshots/kexi/kexi-2.2-alpha1-form-datasource-tags-e1269040847682.png"
-     y="-287.95099"
-     x="338.53009"
-     id="image6079-5"
-     height="56.232567"
-     width="248.55968"
-     transform="matrix(1.013841,0,0,-1.013841,12.784315,-41.936518)"
+     style="opacity:0.40076336"
      mask="url(#mask7053)"
-     style="opacity:0.40076336" />
+     transform="matrix(1.013841,0,0,-1.013841,12.784315,-41.936518)"
+     width="248.55968"
+     height="56.232567"
+     id="image6079-5"
+     x="338.53009"
+     y="-287.95099" />
   <g
      transform="matrix(1.0025327,0,0,1.0025327,2.1089655,-0.03776021)"
      id="g4700">
@@ -12290,49 +12265,49 @@
        d="m 65.000002,38.631866 c 0,0.203316 -0.170975,0.368136 -0.381884,0.368136 -0.210908,0 -0.381884,-0.16482 -0.381884,-0.368136 0,-0.203315 0.170976,-0.368135 0.381884,-0.368135 0.210909,0 0.381884,0.16482 0.381884,0.368135 z" />
   </g>
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kexi/kexi-2.2-alpha1-form-datasource-tags-e1269040847682.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kexi/kexi-2.2-alpha1-form-datasource-tags-e1269040847682.png"
      xlink:href="screenshots/kexi/kexi-2.2-alpha1-form-datasource-tags-e1269040847682.png"
-     width="252"
-     height="167.16417"
-     id="image8949"
+     y="18.835831"
      x="356"
-     y="18.835831" />
+     id="image8949"
+     height="167.16417"
+     width="252" />
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kexi/kexi-2.2-reports-publications.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kexi/kexi-2.2-reports-publications.png"
      xlink:href="screenshots/kexi/kexi-2.2-reports-publications.png"
-     width="182"
-     height="108.56805"
-     id="image9020"
+     y="136.43195"
      x="60"
-     y="136.43195" />
+     id="image9020"
+     height="108.56805"
+     width="182" />
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kexi/templates.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kexi/templates.png"
      xlink:href="screenshots/kexi/templates.png"
-     width="117"
-     height="84.517532"
-     id="image9091"
+     y="26.48247"
      x="736"
-     y="26.48247" />
+     id="image9091"
+     height="84.517532"
+     width="117" />
   <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kexi/templates.png"
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kexi/templates.png"
      xlink:href="screenshots/kexi/templates.png"
-     style="opacity:0.40076336"
-     mask="url(#mask7053-59)"
-     transform="matrix(0.47071191,0,0,-0.47071191,576.64985,7.4580401)"
-     width="248.55968"
-     height="56.232567"
+     y="-287.95099"
+     x="338.53009"
      id="image6079-5-5"
-     x="338.53009"
-     y="-287.95099" />
-  <image
-     sodipodi:absref="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/screenshots/kexi/kexi-2.2-reports-publications.png"
-     xlink:href="screenshots/kexi/kexi-2.2-reports-publications.png"
-     style="opacity:0.40076336"
-     mask="url(#mask7053-3)"
-     transform="matrix(0.73221852,0,0,-0.50510382,-187.87801,132.55485)"
-     width="248.55968"
      height="56.232567"
-     id="image6079-5-3"
+     width="248.55968"
+     transform="matrix(0.47071191,0,0,-0.47071191,576.64985,7.4580401)"
+     mask="url(#mask7053-59)"
+     style="opacity:0.40076336" />
+  <image
+     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kexi/kexi-2.2-reports-publications.png"
+     xlink:href="screenshots/kexi/kexi-2.2-reports-publications.png"
+     y="-287.95099"
      x="338.53009"
-     y="-287.95099" />
+     id="image6079-5-3"
+     height="56.232567"
+     width="248.55968"
+     transform="matrix(0.73221852,0,0,-0.50510382,-187.87801,132.55485)"
+     mask="url(#mask7053-3)"
+     style="opacity:0.40076336" />
 </svg>
