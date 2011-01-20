@@ -50,42 +50,42 @@
 	 */
 	wp_head();
 
-  $banner_image = "";
+  $banner_class = "";
   $secondary_menu = "";
   
   if(is_home() or is_page("learn-more")):
-    $banner_image = "appsmatrix.png";
+    $banner_class = "appsmatrix";
   elseif(has_ancestor("words")):
-    $banner_image = "words.png";
+    $banner_class = "words";
     $secondary_menu = "words";
   elseif(has_ancestor("stage")):
-    $banner_image = "stage.png";
+    $banner_class = "stage";
     $secondary_menu = "stage";
   elseif(has_ancestor("tables")):
-    $banner_image = "tables.png";
+    $banner_class = "tables";
     $secondary_menu = "tables";
   elseif(has_ancestor("kexi")):
-    $banner_image = "kexi.png";
+    $banner_class = "kexi";
     $secondary_menu = "kexi";
   elseif(has_ancestor("flow")):
-    $banner_image = "flow.png";
+    $banner_class = "flow";
     $secondary_menu = "";
   elseif(has_ancestor("plan")):
-    $banner_image = "plan.png";
+    $banner_class = "plan";
     $secondary_menu = "";
   elseif(has_ancestor("karbon")):
-    $banner_image = "karbon.png";
+    $banner_class = "karbon";
     $secondary_menu = "karbon";
   elseif(has_ancestor("krita")):
-    $banner_image = "krita.png";
+    $banner_class = "krita";
   elseif(has_ancestor("contribute")):
-    $banner_image = "contribute.png";
+    $banner_class = "contribute";
   elseif(has_ancestor("get-calligra")):
-    $banner_image = "getcalligra.png";
+    $banner_class = "getcalligra";
   elseif(has_ancestor("get-help")):
-    $banner_image = "gethelp.png";
+    $banner_class = "gethelp";
   elseif(is_archive() or is_single()):
-    $banner_image = "archive.png";
+    $banner_class = "archive";
   endif
   
 
@@ -119,11 +119,39 @@
 				</<?php echo $heading_tag; ?>>
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
-        <div class="<?php echo $banner_class; ?>">
-          <?php if ($banner_image == "appsmatrix.png"): ?>
+        <div class="banner banner_<?php echo $banner_class; ?>">
+          <?php if ($banner_class == "appsmatrix"): ?>
           <?php include('home_banner.php') ?>
           <?php else: ?>
-          <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php echo $banner_image; ?>" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
+          <div class="<?php echo $banner_class ?>">
+            <?php if ($banner_class == 'words'): ?>
+            <strong>Calligra Words</strong> is an intuitive word processor application with desktop publishing features. With it, you can create informative and attractive documents with ease.
+            <?php elseif ($banner_class == 'stage'): ?>
+            <strong>Calligra Stage</strong> is a powerful and easy to use presentation application.
+            <br />
+            You can dazzle your audience with stunning slides containing images, videos, animation and more.
+            <?php elseif ($banner_class == 'tables'): ?>
+            <strong>Calligra Tables</strong> is a fully-featured spreadsheet application. Use it to quickly create spreadsheets with formulas and charts, to calculate and organize your data.
+            <?php elseif ($banner_class == 'kexi'): ?>
+            <strong>Kexi</strong> for integrated data management
+            <?php elseif ($banner_class == 'flow'): ?>
+            <strong>Calligra Flow</strong> for diagramming and flowcharting
+            <?php elseif ($banner_class == 'plan'): ?>
+            <strong>Calligra Plan</strong> for project planning
+            <?php elseif ($banner_class == 'karbon'): ?>
+            <strong>Karbon</strong> for drawing vector graphics
+            <?php elseif ($banner_class == 'krita'): ?>
+            <strong>Krita</strong> for painting and drawing
+            <?php elseif ($banner_class == 'contribute'): ?>
+            <strong>Contribute</strong> to a vibrant and dynamic <strong>community</strong> with code, documentation, translation, artwork...
+            <?php elseif ($banner_class == 'getcalligra'): ?>
+            <strong>Calligra Suite</strong> is distributed as source code, but various other projects deliver binary packages.
+            <?php elseif ($banner_class == 'gethelp'): ?>
+            <strong>Get help</strong> for <strong>Calligra</strong> applications using IRC, forums or wiki
+            <?php elseif ($banner_class == 'archive'): ?>
+            <strong>Archive</strong> or <strong>news</strong> related to <strong>Calligra</strong>
+            <?php endif ?>
+          </div>
           <?php endif ?>
         </div>
         
