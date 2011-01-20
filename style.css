@@ -1395,14 +1395,15 @@ body {
   width:940px;
   height:315px;
   background-repeat: no-repeat;
+  margin-bottom: -1px;
   margin-left:-30px;
   margin-right:-30px;
+  padding-top: 1px;
   padding-left:30px;
   padding-right:30px;
   font-family: "Nimbus Sans L", sans;
   line-height: 100%;
   color: black;
-  padding-top: 1px;
 }
 
 .banner_appsmatrix {
