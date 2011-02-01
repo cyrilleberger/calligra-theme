@@ -31,7 +31,7 @@
         </ul>
     <?php
     }
-    $BlogFeeds = array( 'http://www.koffice.org/category/blogs/feed/', // KOffice developers
+    $BlogFeeds = array( 'http://www.calligra-suite.org/category/blogs/feed/', // Calligra developers
                         'http://blog.cberger.net/category/open-source/koffice/feed/', // Cyrille Berger
                         'http://www.valdyas.org/fading/index.cgi/index.rss', // Boudewijn Rempt
                         'http://celarek.at/category/kde/feed/', // Adam
