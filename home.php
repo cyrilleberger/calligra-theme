@@ -87,7 +87,7 @@ query_posts('posts_per_page=50');
       lifestream("Forum", $ForumFeeds);
       lifestream("Microblogging", $MicrobloggingFeeds );
       ?>
-      <h3>KOffice around the web</h3>
+      <h3>Calligra around the web</h3>
       <ul>
       <?php
           wp_list_bookmarks('category=2&orderby=updated&categorize=0&title_li=');
