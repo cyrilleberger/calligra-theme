@@ -13,7 +13,7 @@ query_posts('posts_per_page=50');
   <div id="content" role="main">
     <div class="introductionbeta">
     <p>
-      Calligra is a project that aims at delivering a suite of applications and technologies for Office applications (texts, spreadsheets, presentations, plans, flowcharts, databases...) and Creative applications (vectors, images).
+      Calligra aims to deliveer a suite of applications and technologies for Office applications (texts, spreadsheets, presentations, plans, flowcharts, databases...) and Creative applications (vectors, images).
     </p>
     <div class="navigation">
       <div class="alignright"><a href="learn-more">Learn more</a></div>
