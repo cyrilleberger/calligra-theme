@@ -54,7 +54,6 @@
                         );
     
     $ForumFeeds = array(
-                        'http://forum.kde.org/smartfeed.php?forum=96&limit=NO_LIMIT&count_limit=10&sort_by=standard&feed_type=ATOM1.0&feed_style=COMPACT',
                         'http://forum.kde.org/smartfeed.php?forum=203&limit=NO_LIMIT&count_limit=10&sort_by=standard&feed_type=ATOM1.0&feed_style=COMPACT' );
     
     $MicrobloggingFeeds = array( 'http://identi.ca/api/statusnet/groups/timeline/1921.atom',
