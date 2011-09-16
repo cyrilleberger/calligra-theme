@@ -54,7 +54,9 @@
   $secondary_menu = "";
   
   if(is_home() or is_page("learn-more") or is_page("homebeta")):
-    $banner_class = "appsmatrix";
+    $banner_class = "banner"
+    $banner_img   = "banner_calligra-2.4-beta.png"
+//     $banner_class = "appsmatrix";
   elseif(has_ancestor("words")):
     $banner_class = "words";
     $secondary_menu = "words";
@@ -150,6 +152,8 @@
             <strong>Get help</strong> for <strong>Calligra</strong> applications using IRC, forums or wiki
             <?php elseif ($banner_class == 'archive'): ?>
             <strong>Archive</strong> or <strong>news</strong> related to <strong>Calligra</strong>
+            <?php elseif ($banner_class == 'banner'): ?>
+              <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php echo $banner_image; ?>" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
             <?php endif ?>
           </div>
           <?php endif ?>
