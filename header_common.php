@@ -121,11 +121,11 @@
 				</<?php echo $heading_tag; ?>>
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
-        <div class="banner banner_<?php echo $banner_class; ?>">
+        <div class="banner banner_image_<?php echo $banner_class; ?>">
           <?php if ($banner_class == "appsmatrix"): ?>
           <?php include('home_banner.php') ?>
           <?php else: ?>
-          <div class="<?php echo $banner_class ?>">
+          <div class="banner_<?php echo $banner_class ?>">
             <?php if ($banner_class == 'words'): ?>
             <strong>Calligra Words</strong> is an intuitive word processor application with desktop publishing features. With it, you can create informative and attractive documents with ease.
             <?php elseif ($banner_class == 'stage'): ?>

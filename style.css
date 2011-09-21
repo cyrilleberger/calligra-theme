@@ -1507,103 +1507,103 @@ body {
   padding-right:30px;
 }
 
-.banner_appsmatrix {
+.banner_image_appsmatrix {
   background-image:url("images/banner_home_background.png");  
 }
 
-.banner_words {
+.banner_image_words {
   background-image:url("images/banners/words.png");  
 }
 
-.words {
+.banner_words {
     margin: 205px 15px 0px 735px; 
 }
 
-.banner_stage {
+.banner_image_stage {
   background-image:url("images/banners/stage.png");  
 }
 
-.stage {
+.banner_stage {
     margin: 185px 15px 0px 755px; 
 }
 
-.banner_tables {
+.banner_image_tables {
   background-image:url("images/banners/tables.png");  
 }
 
-.tables {
+.banner_tables {
     margin: 210px 0px 0px 750px; 
 }
 
-.banner_kexi {
+.banner_image_kexi {
   background-image:url("images/banners/kexi.png");  
 }
 
-.kexi {
+.banner_kexi {
     margin: 225px 0px 0px 725px; 
 }
 
-.banner_flow {
+.banner_image_flow {
   background-image:url("images/banners/flow.png");  
 }
 
-.flow {
+.banner_flow {
     margin: 230px 15px 0px 710px; 
 }
 
-.banner_plan {
+.banner_image_plan {
   background-image:url("images/banners/plan.png");  
 }
 
-.plan {
+.banner_plan {
     margin: 235px 15px 0px 710px; 
 }
 
-.banner_karbon {
+.banner_image_karbon {
   background-image:url("images/banners/karbon.png");  
 }
 
-.karbon {
+.banner_karbon {
     margin: 225px 0px 0px 735px; 
 }
 
-.banner_krita {
+.banner_image_krita {
   background-image:url("images/banners/krita.png");  
 }
 
-.krita {
+.banner_krita {
     margin: 180px 0px 0px 765px; 
 }
 
-.banner_contribute {
+.banner_image_contribute {
   background-image:url("images/banners/contribute.png");  
 }
 
-.contribute {
+.banner_contribute {
     margin: 225px 0px 0px 785px; 
 }
 
-.banner_getcalligra {
+.banner_image_getcalligra {
   background-image:url("images/banners/getcalligra.png");  
 }
 
-.getcalligra {
+.banner_getcalligra {
     margin: 225px 5px 0px 775px; 
 }
 
-.banner_gethelp {
+.banner_image_gethelp {
   background-image:url("images/banners/gethelp.png");  
 }
 
-.gethelp {
+.banner_gethelp {
     margin: 250px 5px 0px 755px; 
 }
 
-.banner_archive {
+.banner_image_archive {
   background-image:url("images/banners/archive.png");  
 }
 
-.archive {
+.banner_archive {
     margin: 260px 0px 0px 735px; 
 }
 
