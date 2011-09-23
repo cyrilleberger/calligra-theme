@@ -53,10 +53,14 @@
   $banner_class = "";
   $secondary_menu = "";
   
-  if(is_home() or is_page("learn-more") or is_page("homebeta")):
-    $banner_class = "banner_home_image";
+  if(is_home()):
+    $banner_class = "home_image";
     $banner_img   = "banner_calligra-2.4-beta.png";
-//     $banner_class = "appsmatrix";
+#   $banner_class = "home_appsmatrix";
+  elseif(is_page("learn-more") or is_page("homebeta")):
+#    $banner_class = "image";
+#    $banner_img   = "banner_calligra-2.4-beta.png";
+    $banner_class = "appsmatrix";
   elseif(has_ancestor("words")):
     $banner_class = "words";
     $secondary_menu = "words";
@@ -122,7 +126,7 @@
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
         <div class="banner banner_image_<?php echo $banner_class; ?>">
-          <?php if ($banner_class == "appsmatrix"): ?>
+          <?php if ($banner_class == "appsmatrix" or $banner_class == "home_appsmatrix"): ?>
           <?php include('home_banner.php') ?>
           <?php else: ?>
           <div class="banner_<?php echo $banner_class ?>">
@@ -152,7 +156,7 @@
             <strong>Get help</strong> for <strong>Calligra</strong> applications using IRC, forums or wiki
             <?php elseif ($banner_class == 'archive'): ?>
             <strong>Archive</strong> or <strong>news</strong> related to <strong>Calligra</strong>
-            <?php elseif ($banner_class == 'banner_home_image'): ?>
+            <?php elseif ($banner_class == 'home_image' or $banner_class == 'image'): ?>
               <img src="<?php bloginfo('stylesheet_directory'); ?>/images/banners/<?php echo $banner_img; ?>" width="<?php echo HEADER_IMAGE_WIDTH; ?>" height="<?php echo HEADER_IMAGE_HEIGHT; ?>" alt="" />
             <?php endif ?>
           </div>

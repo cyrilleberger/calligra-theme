@@ -1495,9 +1495,15 @@ body {
   color: black;
 }
 
+.banner_image {
+  background-image: url("images/banner_background.png");
+}
+
 .banner_home_image {
   background-image: url("images/banner_home_background.png");
+}
 
+.banner_image, .banner_home_image {
   clear:both;
   width:940px;
   height:315px;
@@ -1507,8 +1513,12 @@ body {
   padding-right:30px;
 }
 
+.banner_image_home_appsmatrix {
+  background-image:url("images/banner_home_background.png");
+}
+
 .banner_image_appsmatrix {
-  background-image:url("images/banner_home_background.png");  
+  background-image:url("images/banner_background.png");  
 }
 
 .banner_image_words {
