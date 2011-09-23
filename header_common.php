@@ -82,6 +82,8 @@
     $secondary_menu = "karbon";
   elseif(has_ancestor("krita")):
     $banner_class = "krita";
+  elseif(has_ancestor("braindump")):
+    $banner_class = "braindump";
   elseif(has_ancestor("contribute")):
     $banner_class = "contribute";
   elseif(has_ancestor("get-calligra")):
@@ -146,6 +148,8 @@
             <strong>Karbon</strong> for drawing vector graphics
             <?php elseif ($banner_class == 'krita'): ?>
             <strong>Krita</strong> for painting and drawing
+            <?php elseif ($banner_class == 'braindump'): ?>
+            <strong>Braindump</strong> for storing your ideas
             <?php elseif ($banner_class == 'contribute'): ?>
             <strong>Contribute</strong> to a vibrant and dynamic <strong>community</strong> with code, documentation, translation, artwork...
             <?php elseif ($banner_class == 'getcalligra'): ?>

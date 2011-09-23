@@ -1577,6 +1577,14 @@ body {
     margin: 180px 0px 0px 765px; 
 }
 
+.banner_image_braindump {
+  background-image:url("images/banners/braindump.png");  
+}
+
+.banner_braindump {
+    margin: 180px 0px 0px 765px; 
+}
+
 .banner_image_contribute {
   background-image:url("images/banners/contribute.png");  
 }
