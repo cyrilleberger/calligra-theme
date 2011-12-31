@@ -1577,6 +1577,15 @@ body {
     margin: 180px 0px 0px 765px; 
 }
 
+
+.banner_image_mobile {
+  background-image:url("images/banners/mobile.png");
+}
+
+.banner_mobile {
+    margin: 180px 0px 0px 765px;
+}
+
 .banner_image_braindump {
   background-image:url("images/banners/braindump.png");  
 }
