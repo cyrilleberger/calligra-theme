@@ -153,7 +153,7 @@
             <?php elseif ($banner_class == 'braindump'): ?>
             <strong>Braindump</strong> for storing your ideas
             <?php elseif ($banner_class == 'mobile'): ?>
-            Take <strong>Calligra</strong> in your poket
+            Take <strong>Calligra</strong> in your poket, and access your documents everywhere you go.
             <?php elseif ($banner_class == 'contribute'): ?>
             <strong>Contribute</strong> to a vibrant and dynamic <strong>community</strong> with code, documentation, translation, artwork...
             <?php elseif ($banner_class == 'getcalligra'): ?>
