@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,8 +46,8 @@
      id="namedview1391"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="315.41068"
-     inkscape:cy="120.07622"
+     inkscape:cx="445.78722"
+     inkscape:cy="116.20162"
      inkscape:window-x="-4"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -9539,18 +9539,26 @@
          stdDeviation="11.267169"
          id="feGaussianBlur5439" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5419">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5843803"
+         id="feGaussianBlur5421" />
+    </filter>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask5445">
+       id="mask5423">
       <rect
-         mask="none"
-         y="41.641659"
-         x="345.82843"
-         height="338.3735"
+         transform="matrix(0.91495985,0,0,0.80281959,55.62277,-43.709697)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5419)"
+         id="rect5425"
          width="563"
-         id="rect5447"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5437)"
-         transform="matrix(0.96757503,0,0,1.0155659,29.468731,-0.64818921)" />
+         height="338.3735"
+         x="345.82843"
+         y="41.641659"
+         mask="none" />
     </mask>
   </defs>
   <image
@@ -9661,11 +9669,10 @@
   <image
      sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/mobile/harmattann9.png"
      xlink:href="screenshots/mobile/harmattann9.png"
-     transform="matrix(0.7513162,0,0,0.7513162,223.96097,-19.329948)"
-     mask="url(#mask5445)"
-     y="42.906105"
-     x="359.96503"
+     height="285.51111"
+     width="536.49036"
      id="image6150"
-     height="345.82068"
-     width="564.74731" />
+     x="362.40854"
+     y="-15.093903"
+     mask="url(#mask5423)" />
 </svg>
