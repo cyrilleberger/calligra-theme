@@ -15,7 +15,7 @@
             endif;
         endforeach;
         // Build an array of all the items, starting with element 0 (first element), but limit it to 5
-        $rss_items = SimplePie::merge_items($rsses, 0, 5);
+        $rss_items = SimplePie::merge_items($rsses, 0, 8);
         ?>
 
         <ul>
