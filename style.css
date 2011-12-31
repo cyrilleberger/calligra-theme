@@ -1509,6 +1509,10 @@ body {
   background-image:url("images/banner_home_background.png");
 }
 
+.banner_image_homebeta_appsmatrix {
+  background-image:url("images/banner_homebeta_background.png");
+}
+
 .banner_image, .banner_image_appsmatrix {
   background-image:url("images/banner_background.png");  
 }

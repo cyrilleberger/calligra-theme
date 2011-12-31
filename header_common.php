@@ -55,7 +55,9 @@
   
   if(is_home()):
    $banner_class = "home_beta";
-  elseif(is_page("learn-more") or is_page("homebeta")):
+  elseif(is_page("homebeta")):
+    $banner_class = "homebeta_appsmatrix";
+  elseif(is_page("learn-more") or ):
 #    $banner_class = "image";
 #    $banner_img   = "banner_calligra-2.4-beta.png";
     $banner_class = "appsmatrix";
@@ -128,7 +130,7 @@
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
         <div class="banner banner_image_<?php echo $banner_class; ?>">
-          <?php if ($banner_class == "appsmatrix" or $banner_class == "home_appsmatrix"): ?>
+          <?php if ($banner_class == "appsmatrix" or $banner_class == "home_appsmatrix" or $banner_class = "homebeta_appsmatrix"): ?>
           <?php include('banner_appsmatrix.php') ?>
           <?php else: ?>
           <div class="banner_<?php echo $banner_class ?>">
