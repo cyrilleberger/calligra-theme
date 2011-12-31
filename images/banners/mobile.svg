@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9533,14 +9533,6 @@
        y2="280.06024" />
     <filter
        inkscape:collect="always"
-       id="filter5437">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="11.267169"
-         id="feGaussianBlur5439" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter5419">
       <feGaussianBlur
          inkscape:collect="always"
@@ -9669,10 +9661,11 @@
   <image
      sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/mobile/harmattann9.png"
      xlink:href="screenshots/mobile/harmattann9.png"
-     height="285.51111"
-     width="536.49036"
-     id="image6150"
-     x="362.40854"
+     transform="translate(34,19)"
+     mask="url(#mask5423)"
      y="-15.093903"
-     mask="url(#mask5423)" />
+     x="362.40854"
+     id="image6150"
+     width="536.49036"
+     height="285.51111" />
 </svg>
