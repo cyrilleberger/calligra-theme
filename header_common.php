@@ -57,7 +57,7 @@
    $banner_class = "home_beta";
   elseif(is_page("homebeta")):
     $banner_class = "homebeta_appsmatrix";
-  elseif(is_page("learn-more") or ):
+  elseif(is_page("learn-more")):
 #    $banner_class = "image";
 #    $banner_img   = "banner_calligra-2.4-beta.png";
     $banner_class = "appsmatrix";
