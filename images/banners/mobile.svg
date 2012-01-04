@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,7 +46,7 @@
      id="namedview1391"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="445.78722"
+     inkscape:cx="509.90856"
      inkscape:cy="116.20162"
      inkscape:window-x="-4"
      inkscape:window-y="-3"
@@ -9541,16 +9541,16 @@
     </filter>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask5423">
+       id="mask4647">
       <rect
-         transform="matrix(0.91495985,0,0,0.80281959,55.62277,-43.709697)"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5419)"
-         id="rect5425"
-         width="563"
-         height="338.3735"
-         x="345.82843"
+         mask="none"
          y="41.641659"
-         mask="none" />
+         x="345.82843"
+         height="338.3735"
+         width="563"
+         id="rect4649"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5419)"
+         transform="matrix(0.91837862,0,0,0.83889277,97.478076,-39.814949)" />
     </mask>
   </defs>
   <image
@@ -9659,13 +9659,13 @@
        y="68"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Calligra Mobile</tspan></text>
   <image
-     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/mobile/harmattann9.png"
-     xlink:href="screenshots/mobile/harmattann9.png"
-     transform="translate(34,19)"
-     mask="url(#mask5423)"
-     y="-15.093903"
-     x="362.40854"
+     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/mobile/calligramobilescreenshot.png"
+     xlink:href="screenshots/mobile/calligramobilescreenshot.png"
+     transform="matrix(0.93817568,0,0,0.93817568,57.645526,17.587776)"
+     height="291.14755"
+     width="518"
      id="image6150"
-     width="536.49036"
-     height="285.51111" />
+     x="414.40854"
+     y="-6.6676712"
+     mask="url(#mask4647)" />
 </svg>
