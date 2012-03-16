@@ -67,9 +67,9 @@
   elseif(has_ancestor("stage")):
     $banner_class = "stage";
     $secondary_menu = "stage";
-  elseif(has_ancestor("tables")):
-    $banner_class = "tables";
-    $secondary_menu = "tables";
+  elseif(has_ancestor("sheets")):
+    $banner_class = "sheets";
+    $secondary_menu = "sheets";
   elseif(has_ancestor("kexi")):
     $banner_class = "kexi";
     $secondary_menu = "kexi";
@@ -130,7 +130,7 @@
 				<div id="site-description"><?php bloginfo( 'description' ); ?></div>
 
         <div class="banner banner_image_<?php echo $banner_class; ?>">
-          <?php if ($banner_class == "appsmatrix" or $banner_class == "home_appsmatrix" or $banner_class = "homebeta_appsmatrix"): ?>
+          <?php if ($banner_class == "appsmatrix" or $banner_class == "home_appsmatrix" or $banner_class == "homebeta_appsmatrix"): ?>
           <?php include('banner_appsmatrix.php') ?>
           <?php else: ?>
           <div class="banner_<?php echo $banner_class ?>">
@@ -140,8 +140,8 @@
             <strong>Calligra Stage</strong> is a powerful and easy to use presentation application.
             <br />
             You can dazzle your audience with stunning slides containing images, videos, animation and more.
-            <?php elseif ($banner_class == 'tables'): ?>
-            <strong>Calligra Tables</strong> is a fully-featured spreadsheet application. Use it to quickly create spreadsheets with formulas and charts, to calculate and organize your data.
+            <?php elseif ($banner_class == 'sheets'): ?>
+            <strong>Calligra Sheets</strong> is a fully-featured spreadsheet application. Use it to quickly create spreadsheets with formulas and charts, to calculate and organize your data.
             <?php elseif ($banner_class == 'kexi'): ?>
             <strong>Kexi</strong> for integrated data management
             <?php elseif ($banner_class == 'flow'): ?>

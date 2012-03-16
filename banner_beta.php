@@ -16,5 +16,5 @@ href="/news/first-beta-version-of-the-calligra-suite/" />
 <area shape="rect" coords="427,158,512,265" alt="Krita" href="/krita/" />
 <area shape="rect" coords="529,158,614,265" alt="Plan" href="/plan/" />
 <area shape="rect" coords="629,158,714,265" alt="Stage" href="/stage/" />
-<area shape="rect" coords="731,158,816,265" alt="Tables" href="/tables/" />
+<area shape="rect" coords="731,158,816,265" alt="Sheets" href="/sheet/" />
 </map>
