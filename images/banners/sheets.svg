@@ -14,9 +14,9 @@
    height="290"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="tables.svg"
-   inkscape:export-filename="/home/cyrille/Documents/Projects/KOffice/website/wp/calligra/images/banners/tables.png"
+   inkscape:export-filename="tables.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -41,7 +41,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1152"
+     inkscape:window-height="1060"
      id="namedview1391"
      showgrid="false"
      inkscape:zoom="1.4142136"
@@ -10773,18 +10773,18 @@
        id="tspan5918"
        x="142"
        y="82"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Tables</tspan></text>
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:James Fajardo;-inkscape-font-specification:James Fajardo">Sheets</tspan></text>
   <image
-     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kspread/kspread5.png"
+     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/kspread/kspread5.png"
      xlink:href="screenshots/kspread/kspread5.png"
-     y="-287.95099"
-     x="338.53009"
-     id="image6079-5"
-     height="56.232567"
-     width="248.55968"
-     transform="matrix(1.0661424,0,0,-1,-32.921283,-52)"
+     style="opacity:0.40076336"
      mask="url(#mask7053)"
-     style="opacity:0.40076336" />
+     transform="matrix(1.0661424,0,0,-1,-32.921283,-52)"
+     width="248.55968"
+     height="56.232567"
+     id="image6079-5"
+     x="338.53009"
+     y="-287.95099" />
   <g
      id="layer1"
      inkscape:label="Livello 1"
@@ -12184,49 +12184,49 @@
        sodipodi:nodetypes="ccccccccc" />
   </g>
   <image
-     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kspread/kspread5.png"
+     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/kspread/kspread5.png"
      xlink:href="screenshots/kspread/kspread5.png"
-     width="265"
-     height="155.6875"
-     id="image9866"
+     y="20.156258"
      x="328"
-     y="20.156258" />
+     id="image9866"
+     height="155.6875"
+     width="265" />
   <image
-     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kspread/kspread3.png"
+     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/kspread/kspread3.png"
      xlink:href="screenshots/kspread/kspread3.png"
-     width="124"
-     height="103.36705"
-     id="image9937"
+     y="132.31648"
      x="92.5"
-     y="132.31648" />
+     id="image9937"
+     height="103.36705"
+     width="124" />
   <image
-     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kspread/kspread3.png"
+     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/kspread/kspread3.png"
      xlink:href="screenshots/kspread/kspread3.png"
-     style="opacity:0.40076336"
-     mask="url(#mask7053-7)"
-     transform="matrix(0.49887416,0,0,-0.71133157,-76.383914,75.171371)"
-     width="248.55968"
-     height="56.232567"
-     id="image6079-5-5"
-     x="338.53009"
-     y="-287.95099" />
-  <image
-     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kspread/kspread4.png"
-     xlink:href="screenshots/kspread/kspread4.png"
-     y="17.407806"
-     x="681"
-     id="image10138"
-     height="101.18437"
-     width="172" />
-  <image
-     sodipodi:absref="/home/alfredo/programazioa/wordpress/wp-content/themes/calligra-theme/images/banners/screenshots/kspread/kspread4.png"
-     xlink:href="screenshots/kspread/kspread4.png"
      y="-287.95099"
      x="338.53009"
-     id="image6079-5-2"
+     id="image6079-5-5"
      height="56.232567"
      width="248.55968"
-     transform="matrix(0.69198674,0,0,-1,446.74167,-107.83471)"
-     mask="url(#mask7053-6)"
+     transform="matrix(0.49887416,0,0,-0.71133157,-76.383914,75.171371)"
+     mask="url(#mask7053-7)"
      style="opacity:0.40076336" />
+  <image
+     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/kspread/kspread4.png"
+     xlink:href="screenshots/kspread/kspread4.png"
+     width="172"
+     height="101.18437"
+     id="image10138"
+     x="681"
+     y="17.407806" />
+  <image
+     sodipodi:absref="/home/cyrille/Projects/kde4/websites/theme/images/banners/screenshots/kspread/kspread4.png"
+     xlink:href="screenshots/kspread/kspread4.png"
+     style="opacity:0.40076336"
+     mask="url(#mask7053-6)"
+     transform="matrix(0.69198674,0,0,-1,446.74167,-107.83471)"
+     width="248.55968"
+     height="56.232567"
+     id="image6079-5-2"
+     x="338.53009"
+     y="-287.95099" />
 </svg>
