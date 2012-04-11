@@ -308,10 +308,10 @@ a:hover {
 }
 #site-title {
 	float: left;
-	font-size: 30px;
+/*	font-size: 30px;
 	line-height: 36px;
-	margin: 0 0 18px 0;
-	width: 700px;
+	margin: 0 0 18px 0;*/
+	width: 400px;
 }
 #site-title a {
 	color: #000;
@@ -322,7 +322,7 @@ a:hover {
 	clear: right;
 	float: right;
 	font-style: italic;
-	margin: 14px 0 18px 0;
+	margin: 100px 0 18px 0;
 	width: 300px;
 }
 
