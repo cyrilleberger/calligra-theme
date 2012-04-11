@@ -14,12 +14,12 @@
               </div>
             </div>
             <div class="app big center">
-              <a href="/tables" title="Tables spreadsheet application">
-                <img src="<?php bloginfo('stylesheet_directory'); ?>/images/icons/tables.png" width="128" height="128" alt="Tables icon" />
+              <a href="/sheets" title="Sheets spreadsheet application">
+                <img src="<?php bloginfo('stylesheet_directory'); ?>/images/icons/tables.png" width="128" height="128" alt="Sheets icon" />
               </a>
               <div>
-                <a href="/tables" title="Tables spreadsheet application">
-                  <span>Tables</span>
+                <a href="/sheets" title="Sheets spreadsheet application">
+                  <span>Sheets</span>
                   <br />
                   is a fully-featured spreadsheet application. Use it to quickly create spreadsheets with formulas and charts, to calculate and organize your data.
                 </a>
