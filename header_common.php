@@ -52,7 +52,8 @@
 
   $banner_class = "";
   $secondary_menu = "";
-  
+  $has_banner = true;
+
   if(is_home()):
    $banner_class = "home_beta";
   elseif(is_page("homebeta")):
@@ -96,6 +97,8 @@
     $banner_class = "gethelp";
   elseif(is_archive() or is_single()):
     $banner_class = "archive";
+  elseif(has_ancestor("tour")):
+    $has_banner = false;
   endif
   
 
@@ -127,7 +130,7 @@
 						<a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/calligra-logo-200.png" alt="<?php bloginfo( 'name' ); ?>" /></a>
 					</span>
 				</<?php echo $heading_tag; ?>>
-
+       <?php if($has_banner): ?>
         <div class="banner banner_image_<?php echo $banner_class; ?>">
           <?php if ($banner_class == "appsmatrix" or $banner_class == "home_appsmatrix" or $banner_class == "homebeta_appsmatrix"): ?>
           <?php include('banner_appsmatrix.php') ?>
@@ -171,7 +174,7 @@
           </div>
           <?php endif ?>
         </div>
-        
+       <?php endif ?>
 			</div><!-- #branding -->
       <!-- Show secondary menu -->
       <?php
