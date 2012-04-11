@@ -1,4 +1,4 @@
-<img src="http://www.calligra-suite.org/wp-content/themes/calligra/images/banners/banner_calligra-2.4-beta.png"
+<img src="http://www.calligra-suite.org/wp-content/themes/calligra/images/banners/banner_calligra-2.4.png"
 width="940" height="290" alt="" usemap="#banner_calligra-2-map" />
 <map name="banner_calligra-2-map">
 <!-- #$-:Image map file created by GIMP Image Map plug-in -->
@@ -6,7 +6,7 @@ width="940" height="290" alt="" usemap="#banner_calligra-2-map" />
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Jaroslaw Staniek -->
-<area shape="rect" coords="189,15,806,125" alt="Calligra 2.4 Beta"
+<area shape="rect" coords="189,15,806,125" alt="Calligra 2.4"
 href="/news/first-beta-version-of-the-calligra-suite/" />
 <area shape="rect" coords="24,159,109,266" alt="Braindump" href="/braindump/" />
 <area shape="rect" coords="126,159,211,266" alt="Flow" href="/flow/" />
