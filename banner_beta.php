@@ -7,7 +7,7 @@ width="940" height="290" alt="" usemap="#banner_calligra-2-map" />
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Jaroslaw Staniek -->
 <area shape="rect" coords="189,15,806,125" alt="Calligra 2.4"
-href="/news/first-beta-version-of-the-calligra-suite/" />
+href="/news/calligra-2-4-released/" />
 <area shape="rect" coords="24,159,109,266" alt="Braindump" href="/braindump/" />
 <area shape="rect" coords="126,159,211,266" alt="Flow" href="/flow/" />
 <area shape="rect" coords="226,159,311,266" alt="Karbon" href="/karbon/" />
