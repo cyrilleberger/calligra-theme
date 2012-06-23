@@ -37,7 +37,7 @@ query_posts('posts_per_page=50');
       ?>
 
       <div class="navigation">
-              <div class="alignleft">Read <a href="announcements">more announcements</a></div>
+              <div class="alignleft">Read <a href="news/announcements">more announcements</a></div>
       </div>
 
       <h2 style="margin-top:40px;">News</h2>
