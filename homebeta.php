@@ -42,11 +42,11 @@ query_posts('posts_per_page=50');
       ?>
       <?php
           showpost('stable');
-          #showpost('unstable');
+          showpost('unstable');
       ?>
 
       <div class="navigation">
-              <div class="alignright">Read <a href="announcements">more announcements</a></div>
+              <div class="alignright"><a href="/news/announcements">Read more announcements</a></div>
       </div>
 
       <h3 style="margin-top:20px;">News</h3>
@@ -71,7 +71,7 @@ query_posts('posts_per_page=50');
           endwhile; ?>
 
           <div class="navigation">
-                  <div class="alignright">Read <a href="news">more news</a></div>
+                  <div class="alignright"><a href="/news">Read more news</a></div>
           </div>
 
       <?php else : ?>
@@ -86,7 +86,7 @@ query_posts('posts_per_page=50');
     <div class="lifestreambeta">
       <?php
       include("lifestream.php");
-      lifestream("Life stream", $BlogFeeds + $ForumFeeds + $MicrobloggingFeeds );
+      lifestream("Life stream", array_merge($BlogFeeds, $ForumFeeds, $MicrobloggingFeeds) );
       ?>
     </div>
   </div><!-- #content -->
