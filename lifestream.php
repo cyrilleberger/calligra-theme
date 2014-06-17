@@ -50,7 +50,8 @@
                         'http://www.kdedevelopers.org/blog/2892/feed', // Marijn Kruisselbrink
                         'http://ramblingsofpsn.blogspot.com/feeds/posts/default', // Peter Simonsson
                         'http://pinaraf.blogspot.com/rss.xml', // Pierre Ducroquet
-                        'http://slangkamp.wordpress.com/tag/koffice/feed/?mrss=off' // Sven Langkamp
+                        'http://slangkamp.wordpress.com/tag/koffice/feed/?mrss=off', // Sven Langkamp
+			'http://frinring.wordpress.com/category/calligra/feed/?mrss=off&category_name=calligra' # Friedrich Kossebau
                         );
     
     $ForumFeeds = array(
