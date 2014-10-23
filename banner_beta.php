@@ -1,4 +1,4 @@
-<img src="http://www.calligra-suite.org/wp-content/themes/calligra/images/banners/banner_calligra.png"
+<img src="https://www.calligra.org/wp-content/themes/calligra/images/banners/banner_calligra.png"
 width="940" height="290" alt="" usemap="#banner_calligra-2-map" />
 <map name="banner_calligra-2-map">
 <!-- #$-:Image map file created by GIMP Image Map plug-in -->
