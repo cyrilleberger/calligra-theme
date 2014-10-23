@@ -51,7 +51,8 @@
                         'http://ramblingsofpsn.blogspot.com/feeds/posts/default', // Peter Simonsson
                         'http://pinaraf.blogspot.com/rss.xml', // Pierre Ducroquet
                         'http://slangkamp.wordpress.com/tag/koffice/feed/?mrss=off', // Sven Langkamp
-			'http://frinring.wordpress.com/category/calligra/feed/?mrss=off&category_name=calligra' # Friedrich Kossebau
+			'http://frinring.wordpress.com/category/calligra/feed/?mrss=off&category_name=calligra', # Friedrich Kossebau
+                        'http://kath-leinir.blogspot.com/feeds/posts/default?alt=rss&category=calligra' # Leinir
                         );
     
     $ForumFeeds = array(
