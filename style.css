@@ -1582,6 +1582,14 @@ body {
     margin: 180px 0px 0px 765px; 
 }
 
+.banner_image_calligra-gemini {
+  background-image:url("images/banners/calligra-gemini.png");
+}
+
+.banner_calligra-gemini {
+    margin: 180px 0px 0px 765px;
+}
+
 
 .banner_image_mobile {
   background-image:url("images/banners/mobile.png");

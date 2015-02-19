@@ -89,6 +89,9 @@
     $banner_class = "mobile";
   elseif(has_ancestor("braindump")):
     $banner_class = "braindump";
+  elseif(has_ancestor("calligra-gemini")):
+    $banner_class = "calligra-gemini";
+    $secondary_menu = "";
   elseif(has_ancestor("contribute")):
     $banner_class = "contribute";
   elseif(has_ancestor("get-calligra")):
@@ -156,6 +159,8 @@
             <strong>Krita</strong> for painting and drawing
             <?php elseif ($banner_class == 'braindump'): ?>
             <strong>Braindump</strong> for storing your ideas
+            <?php elseif ($banner_class == 'calligra-gemini'): ?>
+            <strong>Calligra Gemini</strong> for creating, editing and viewing documents in a 2-in-1 world
             <?php elseif ($banner_class == 'mobile'): ?>
             Take <strong>Calligra</strong> in your poket, and access your documents everywhere you go.
             <?php elseif ($banner_class == 'contribute'): ?>
