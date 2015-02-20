@@ -1526,6 +1526,14 @@ body {
     margin: 205px 15px 0px 735px; 
 }
 
+.banner_image_author {
+  background-image:url("images/banners/author.png");
+}
+
+.banner_author {
+    margin: 205px 15px 0px 735px;
+}
+
 .banner_image_stage {
   background-image:url("images/banners/stage.png");  
 }
