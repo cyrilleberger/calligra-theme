@@ -89,6 +89,9 @@
     $banner_class = "mobile";
   elseif(has_ancestor("braindump")):
     $banner_class = "braindump";
+  elseif(has_ancestor("gemini")):
+    $banner_class = "gemini";
+    $secondary_menu = "";
   elseif(has_ancestor("contribute")):
     $banner_class = "contribute";
   elseif(has_ancestor("get-calligra")):
@@ -138,6 +141,8 @@
           <div class="banner_<?php echo $banner_class ?>">
             <?php if ($banner_class == 'words'): ?>
             <strong>Calligra Words</strong> is an intuitive word processor application with desktop publishing features. With it, you can create informative and attractive documents with ease.
+            <?php elseif ($banner_class == 'author'): ?>
+            <strong>Calligra Author</strong> is powerful writing tool for novelists and text book authors.
             <?php elseif ($banner_class == 'stage'): ?>
             <strong>Calligra Stage</strong> is a powerful and easy to use presentation application.
             <br />
@@ -156,6 +161,8 @@
             <strong>Krita</strong> for painting and drawing
             <?php elseif ($banner_class == 'braindump'): ?>
             <strong>Braindump</strong> for storing your ideas
+            <?php elseif ($banner_class == 'gemini'): ?>
+            <strong>Calligra Gemini</strong> for creating, editing and viewing documents in a 2-in-1 world
             <?php elseif ($banner_class == 'mobile'): ?>
             Take <strong>Calligra</strong> in your poket, and access your documents everywhere you go.
             <?php elseif ($banner_class == 'contribute'): ?>

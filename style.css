@@ -1526,6 +1526,14 @@ body {
     margin: 205px 15px 0px 735px; 
 }
 
+.banner_image_author {
+  background-image:url("images/banners/author.png");
+}
+
+.banner_author {
+    margin: 205px 15px 0px 735px;
+}
+
 .banner_image_stage {
   background-image:url("images/banners/stage.png");  
 }
@@ -1580,6 +1588,14 @@ body {
 
 .banner_krita {
     margin: 180px 0px 0px 765px; 
+}
+
+.banner_image_gemini {
+  background-image:url("images/banners/calligra-gemini.png");
+}
+
+.banner_gemini {
+    margin: 180px 0px 0px 765px;
 }
 
 
