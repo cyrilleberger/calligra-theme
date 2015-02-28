@@ -62,6 +62,9 @@
 #    $banner_class = "image";
 #    $banner_img   = "banner_calligra-2.4-beta.png";
     $banner_class = "appsmatrix";
+  elseif(has_ancestor("author")):
+    $banner_class = "author";
+    $secondary_menu = "";
   elseif(has_ancestor("words")):
     $banner_class = "words";
     $secondary_menu = "words";
